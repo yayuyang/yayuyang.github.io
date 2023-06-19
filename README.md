@@ -7,11 +7,9 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 上海浦东新区海港大道1550号
 
-![imaged](https://github.com/yayuyang/yayuyang.github.io/blob/main/YYY.jpg)
-
 ![imageri](YYY.jpg)
 
-![imag](https://github.com/yayuyang/yayuyang.github.io/blob/main/PHOTO/YYY.jpg)
+![imagrty](PHOTO/YYY.jpg)
 
 ![imag](https://ls.shmtu.edu.cn/_upload/article/images/42/55/60beeb6e46d8ab0d723c190f459a/2ef7b4af-9daf-410e-a281-bcb5e3762d79_d.jpg）
 
