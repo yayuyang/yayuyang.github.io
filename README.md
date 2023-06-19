@@ -1,6 +1,5 @@
 # <font color='#7093DB'>杨亚宇（Yayu Yang)</font>
 
-![imagrty](PHOTO/YYY.jpg)
 
  <img src="PHOTO/YYY.jpg" width="400" />
 
@@ -43,8 +42,7 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 # <span id="jump2"><font color='#7093DB'>2.Honors and Awards</font></span>
 
-<font color='#7093DB'>1)2023年入选上海市青年科技英才扬帆计划</font>
-
+**1)2023年入选上海市青年科技英才扬帆计划**
 
 2)2022年入选上海高校青年教师培养资助计划（重点推荐）
 
