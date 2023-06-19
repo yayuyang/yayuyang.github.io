@@ -1,4 +1,4 @@
-# <font color=Blue>杨亚宇（Yayu Yang)</font>
+# <font color=#3299CC>杨亚宇（Yayu Yang)</font>
 E-mail:yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 博士，讲师/硕士生导师
@@ -7,7 +7,7 @@ E-mail:yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 上海浦东新区海港大道1550号
 
-# <font color=Blue>Experience</font>
+# <font color=#3299CC>Experience</font>
 2021.05-至今	上海海事大学电气工程专业，讲师
 
 2018.06-2021.05      中泰证券研究所科技组，TMT行业证券分析师
@@ -16,7 +16,7 @@ E-mail:yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 2009.09-2013.06      西南交通大学电气工程学院电气工程及其自动化专业电力系统及其自动化方向，学士（导师：王晓茹教授）
 
-# <font color=Blue>Honors and Awards</font>
+# <font color=#3299CC>Honors and Awards</font>
 1)2023年入选上海市青年科技英才扬帆计划
 
 2)2022年入选上海高校青年教师培养资助计划（重点推荐）
@@ -29,21 +29,21 @@ E-mail:yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 6)2017年上海交通大学博士生国家奖学金
 
-# <font color=Blue>Services</font>
+# <font color=#3299CC>Services</font>
 首届长三角全球科创项目集中路演暨“2019中国·嘉兴航空航天百人会”评委
 
 中国证券业协会证券投资咨询(分析师)
 
 远川研究所智库支持成员
 
-# <font color=Blue>Reviewer</font>
+# <font color=#3299CC>Reviewer</font>
 IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatics、IET Generation, Transmission & Distribution、IET Renewable Power Generation、International Transactions on Electrical Energy Systems、Protection and Control of Modern Power Systems、IEEE Access、IETE Journal of Research、电工技术学报、上海交通大学学报等国内外期刊
 
-# <font color=Blue>Research Interests</font>
+# <font color=#3299CC>Research Interests</font>
 电力系统自动化：电力系统继电保护、直流输配电系统、船舶电力系统等。
 证券投资分析。
 
-# <font color=Blue>Projects</font>
+# <font color=#3299CC>Projects</font>
 1）上海市“科技创新行动计划”启明星项目（扬帆专项），船舶电力系统保护领域，项目时间：2023.03 -2026.03，主持；
 
 2）南方电网广西电力公司管理创新项目，岸电电力系统领域,项目时间：2023.07 -2024.07，主持；
@@ -52,11 +52,11 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 4）上海高校青年教师培养资助计划（重点推荐），电气工程学科建模仿真领域，项目时间：2023.01-2024.12，主持。
 
-# <font color=Blue>Publications</font>
+# <font color=#3299CC>Publications</font>
 已发表学术论文10余篇，已授权国家发明专利5项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载。国内外顶级投资机构科技行业研究课题80个（保密不公开）。
 
-## A-Academic Publications
-### A1-SCI论文
+## <font color=#3299CC>A-Academic Publications</font>
+### <font color=#3299CC>A1-SCI论文</font>
 [1]**Yayu Yang**, Nengling Tai, Yu Liu, Xiaodong Zheng, Jianjun Ma, Jun Yan, Shu Ye. Calculated DC resistance-based pilot protection scheme for bipolar HVDC transmission lines[J]. IET Generation, Transmission & Distribution, 2022, 16(20): 4027-4039. (SCI收录)
 
 [2]**Yayu Yang**, Nengling Tai, Chunju Fan, Lian Yang, Shi Chen. Resonance frequency-based protection scheme for UHVDC transmission lines[J]. IET Generation, Transmission & Distribution, 2018, 12(2): 318-327. (SCI收录)
@@ -68,7 +68,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 [5]Jian Liu, Negnling Tai, Chunju Fan, **Yayu Yang**. Transient measured impedance-based protection scheme for DC line faults in ultra high-voltage direct-current system[J]. IET Generation, Transmission & Distribution, 2016, 10(14): 3597-3609. (SCI收录)
 
 
-### A2-《中国电机工程学报》等学报论文
+### <font color=#3299CC>A2-《中国电机工程学报》等学报论文</font>
 [1]**杨亚宇**,邰能灵,范春菊,刘琦,陈金祥.利用峰值频率的高压直流输电线路纵联保护方案[J].中国电机工程学报,2017,37(15):4304-4314+4570. (EI收录，电气工程学科顶刊) 
 
 [2]**杨亚宇**,邰能灵,刘剑,郑晓冬.利用边界能量的高压直流线路纵联保护方案[J].中国电机工程学报,2015,35(22):5757-5767. (EI收录，电气工程学科顶刊)
@@ -79,19 +79,19 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [5]马建军，朱淼，**杨亚宇**，杜炤鑫．适用于多工作模式Buck-Boost 变换器的线性变参数模型与宽运行范围控制[J/OL]．中国电机工程学报. https://kns.cnki.net/kcms/detail/11.2107.TM.20221025.0933.003.html (EI收录，电气工程学科顶刊)
 
-### A3-其他EI论文
+### <font color=#3299CC>A3-其他EI论文</font>
 
-### A4-国际会议论文
+### <font color=#3299CC>A4-国际会议论文</font>
 [1]**Yayu Yang**, Nengling Tai, Chunju Fan, Xiaodong Zheng, Jian Liu, Bin Lv. Novel transient current-based protection scheme for DC line faults in UHVDC system[C]．IEEE Power & Energy Society General Meeting, CHICAGO, USA, 2017:1-6. (EI收录)
 
-### A5-其他论文
+### <font color=#3299CC>A5-其他论文</font>
 [1]刘月贤,王天钰,**杨亚宇**,王晓茹.电动汽车充放电系统建模与仿真[J].电力系统保护与控制,2014,42(13):70-76. (EI收录)
 
 [2]张林,邰能灵,刘剑,**杨亚宇**,王彦虹.直流微电网方向纵联保护方法研究[J].电测与仪表,2018,55(20):1-7. (中文核心期刊)
 
 [3]陈金熠,冯宇虹,袁晨,宁连营,**杨亚宇**,郑晓冬. 分布式能源接入电网电能质量问题研究[C].2017智能电网信息化建设研讨会论文集,2017:336-339+348.
 
-### A6-发明专利
+### <font color=#3299CC>A6-发明专利</font>
 [1]**杨亚宇**,邰能灵,黄文焘,张林,魏旭,王康安,贺杨烊,肖正光.直流输电线路单端量快速保护方法, 2021年申请, 中国国家发明专利,. ZL202111546132.0 (已进入实质审查)
 
 [2]**杨亚宇**,邰能灵,范春菊,郑晓冬,黄文焘.基于特定频段电流的特高压直流线路保护方法, 2019-4-5, 中国国家发明专利, ZL201810115548.9(已授权)
@@ -106,8 +106,8 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [7]蔡彩霞,甘文洋,**杨亚宇**,郭燚,姚刚.一种用于无线中继通信系统的资源优化分配方法, 2022年申请, 中国国家发明专利,. ZL202210991693. X (已进入实质审查)
 
-## B-Investment Consulting and Securities Research Reports
-### B1-科技行业深度研究23篇
+## <font color=#3299CC>B-Investment Consulting and Securities Research Reports</font>
+### <font color=#3299CC>B1-科技行业深度研究23篇</font>
 [1]智能网联汽车深度：2020年或将进入汽车智能网联时代
 
 [2]我们对华为AI的理解
@@ -154,7 +154,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [23]研发费用加计扣除：定性与定量分析
 
-### B2-科技公司深度研究21篇
+### <font color=#3299CC>B2-科技公司深度研究21篇</font>
 [1]中科创达：技术为本，生态为王
 
 [2]恒为科技：5G+国产化，双轮驱动
@@ -197,7 +197,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [21]同花顺对比：2019VS2015
 
-### B3-行业分析研究8票
+### <font color=#3299CC>B3-行业分析研究8篇</font>
 [1]计算机行业点评报告：中国电信发布服务器集采招标公告，信创行业加速
 
 [2]《智能汽车创新发展战略》发布，看好智能网联汽车行业
@@ -214,7 +214,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [8]2018 Oracle NetSuite 中国峰会感悟：看好云产业链
 
-### B4-公司分析研究102篇
+### <font color=#3299CC>B4-公司分析研究102篇</font>
 [1]中科曙光(603019)：业绩符合预期，海光收入大幅增长
 
 [2]中科创达(300496) ：智能网联汽车、IoT业务高增长，看好长期发展前景
@@ -419,8 +419,8 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [102]浪潮信息（000977）点评：股权激励授予完成，18Q2服务器收入同增112%
 
-# <font color=Blue>Student and Intern Information</font>
-## 电气工程领域
+# <font color=#3299CC>Student and Intern Information</font>
+## <font color=#3299CC>电气工程领域</font>
 
 |姓名    |本/硕/博 |毕业时间|论文题目                   |毕业去向                        	|备注                                 |
 |--------|---------|------|-----------------------------|---------------------------------------|-------------------------------------|
@@ -428,14 +428,14 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 |蒋欣    |本       |2023年|港口岸电电力系统关键技术分析  |华芯（嘉兴）智能装备有限公司-芯片装备OHT|                                     |
 |金斌杰  |本       |2023年|船舶中压直流电力系统建模和仿真|上海海事大学-电气工程专业读研           |上海海事大学本科生优秀毕业设计（论文）|
 					
-## 证券投资分析领域
+## <font color=#3299CC>证券投资分析领域</font>
 部分带教实习生进入Columbia University in the City of New York、Carnegie Mellon University、上海财经大学等国内外学校深造；
 
 部分带教实习生进入JP Morgan Chase、国内证券研究所新财富组、国内中型公募基金、私募等公司工作。
 
-# <font color=Blue>Admission requirements</font>
-## 电气工程领域
+# <font color=#3299CC>Admission requirements</font>
+## <font color=#3299CC>电气工程领域</font>
 按博士候选人标准培养，有读博意向者优先。本科已学过电力系统分析和电力系统继电保护课程优先。
 
-## 证券投资分析领域
+## <font color=#3299CC>证券投资分析领域</font>
 财务基础扎实、吃苦耐劳、会使用Wind/Bloomberg优先。择优推荐至国内各证券公司研究所实习6个月以上。
