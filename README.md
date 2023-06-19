@@ -41,6 +41,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 # <font color='#7093DB'>Research Interests</font>
 电力系统自动化：电力系统继电保护、直流输配电系统、船舶电力系统等。
+
 证券投资分析。
 
 # <font color='#7093DB'>Projects</font>
