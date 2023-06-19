@@ -2,13 +2,13 @@
 
 ![imagrty](PHOTO/YYY.jpg)
 
-E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
-
 1991年，博士，讲师/硕士生导师
 
 电气工程专业，上海海事大学
 
 上海浦东新区海港大道1550号
+
+E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 # <font color='#7093DB'>Contents</font>
 
