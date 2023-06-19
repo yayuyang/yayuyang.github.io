@@ -1,9 +1,7 @@
 # <font color='#7093DB'>杨亚宇（Yayu Yang)</font>
 E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
-1991年出生
-
-博士，讲师/硕士生导师
+1991年，博士，讲师/硕士生导师
 
 电气工程专业，上海海事大学
 
@@ -12,6 +10,10 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 ![imaged](https://github.com/yayuyang/yayuyang.github.io/blob/main/YYY.jpg)
 
 ![imag](https://github.com/yayuyang/yayuyang.github.io/blob/main/PHOTO/YYY.jpg)
+
+
+
+# <font color='#7093DB'>Contents</font>
 
 [1.Experience](#jump1)
 
@@ -57,6 +59,14 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 首届长三角全球科创项目集中路演暨“2019中国·嘉兴航空航天百人会”评委
 
 中国证券业协会证券投资咨询(分析师)
+
+中国电工技术学会高级会员
+
+IEEE member
+
+IET member
+
+中国电机工程学会会员
 
 远川研究所智库支持成员
 
