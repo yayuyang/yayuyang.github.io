@@ -1,25 +1,4 @@
-# 杨亚宇（Yayu Yang)
-# 杨亚宇（Yayu Yang)
-# 杨亚宇（Yayu Yang)
-<font color=Blue># 杨亚宇（Yayu Yang)</font>
 # <font color=Blue>杨亚宇（Yayu Yang)</font>
-
-<font color='blue'>我是字体</font>
-<font face="逐浪新宋">我是逐浪新宋</font>
-<font face="逐浪圆体">我是逐浪圆体</font>
-<font face="逐浪花体">我是逐浪花体</font>
-<font face="逐浪像素字">我是逐浪像素字</font>
-<font face="逐浪立楷">我是逐浪立楷</font>
-<font color=red>我是红色</font>
-<font color=#008000>我是绿色</font>
-<font color=yellow>我是黄色</font>
-<font color=Blue>我是蓝色</font>
-<font color= #871F78>我是紫色</font>
-<font color= #DCDCDC>我是浅灰色</font>
-<font size=5>我是尺寸</font>
-<font size=10>我是尺寸</font>
-<font face="逐浪立楷" color=green size=10>我是逐浪立楷，绿色，尺寸为5</font>
-
 E-mail:yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 博士，讲师/硕士生导师
@@ -28,7 +7,7 @@ E-mail:yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 上海浦东新区海港大道1550号
 
-# Experience
+# <font color=Blue>Experience</font>
 2021.05-至今	上海海事大学电气工程专业，讲师
 
 2018.06-2021.05      中泰证券研究所科技组，TMT行业证券分析师
@@ -37,7 +16,7 @@ E-mail:yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 2009.09-2013.06      西南交通大学电气工程学院电气工程及其自动化专业电力系统及其自动化方向，学士（导师：王晓茹教授）
 
-# Honors and Awards
+# <font color=Blue>Honors and Awards</font>
 1)2023年入选上海市青年科技英才扬帆计划
 
 2)2022年入选上海高校青年教师培养资助计划（重点推荐）
@@ -50,21 +29,21 @@ E-mail:yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 6)2017年上海交通大学博士生国家奖学金
 
-# Services
+# <font color=Blue>Services</font>
 首届长三角全球科创项目集中路演暨“2019中国·嘉兴航空航天百人会”评委
 
 中国证券业协会证券投资咨询(分析师)
 
 远川研究所智库支持成员
 
-# Reviewer
+# <font color=Blue>Reviewer</font>
 IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatics、IET Generation, Transmission & Distribution、IET Renewable Power Generation、International Transactions on Electrical Energy Systems、Protection and Control of Modern Power Systems、IEEE Access、IETE Journal of Research、电工技术学报、上海交通大学学报等国内外期刊
 
-# Research Interests
+# <font color=Blue>Research Interests</font>
 电力系统自动化：电力系统继电保护、直流输配电系统、船舶电力系统等。
 证券投资分析。
 
-# Projects
+# <font color=Blue>Projects</font>
 1）上海市“科技创新行动计划”启明星项目（扬帆专项），船舶电力系统保护领域，项目时间：2023.03 -2026.03，主持；
 
 2）南方电网广西电力公司管理创新项目，岸电电力系统领域,项目时间：2023.07 -2024.07，主持；
@@ -73,7 +52,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 4）上海高校青年教师培养资助计划（重点推荐），电气工程学科建模仿真领域，项目时间：2023.01-2024.12，主持。
 
-# Publications
+# <font color=Blue>Publications</font>
 已发表学术论文10余篇，已授权国家发明专利5项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载。国内外顶级投资机构科技行业研究课题80个（保密不公开）。
 
 ## A-Academic Publications
@@ -440,7 +419,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [102]浪潮信息（000977）点评：股权激励授予完成，18Q2服务器收入同增112%
 
-# Student and Intern Information
+# <font color=Blue>Student and Intern Information</font>
 ## 电气工程领域
 
 |姓名    |本/硕/博 |毕业时间|论文题目                   |毕业去向                        	|备注                                 |
@@ -449,12 +428,12 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 |蒋欣    |本       |2023年|港口岸电电力系统关键技术分析  |华芯（嘉兴）智能装备有限公司-芯片装备OHT|                                     |
 |金斌杰  |本       |2023年|船舶中压直流电力系统建模和仿真|上海海事大学-电气工程专业读研           |上海海事大学本科生优秀毕业设计（论文）|
 					
-## 证券投资分析领域：
+## 证券投资分析领域
 部分带教实习生进入Columbia University in the City of New York、Carnegie Mellon University、上海财经大学等国内外学校深造；
 
 部分带教实习生进入JP Morgan Chase、国内证券研究所新财富组、国内中型公募基金、私募等公司工作。
 
-# Admission requirements
+# <font color=Blue>Admission requirements</font>
 ## 电气工程领域
 按博士候选人标准培养，有读博意向者优先。本科已学过电力系统分析和电力系统继电保护课程优先。
 
