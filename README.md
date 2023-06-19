@@ -7,9 +7,34 @@ E-mail:yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 上海浦东新区海港大道1550号
 
-# Welcome to StackEdit!
+# Experience
+2021.05-至今         上海海事大学电气工程专业，讲师
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+2018.06-2021.05      中泰证券研究所科技组，TMT行业证券分析师
+
+2013.09-2018.06      上海交通大学电子信息与电气工程学院电气工程系，博士（导师：邰能灵教授）
+
+2009.09-2013.06      西南交通大学电气工程学院电气工程及其自动化专业电力系统及其自动化方向，学士（导师：王晓茹教授）
+
+# Honors and Awards
+1)2023年入选上海市青年科技英才扬帆计划
+
+2)2022年入选上海高校青年教师培养资助计划（重点推荐）
+
+3)第十八届新财富最佳分析师评选-计算机行业入围团队核心成员
+
+4)第十一届中国证券业分析师金牛奖-最佳计算机行业分析团队第四名团队核心成员
+
+5)第二届新浪财经金麒麟最佳分析师评选-计算机行业第五名团队核心成员
+
+6)2017年上海交通大学博士生国家奖学金
+
+# Services
+首届长三角全球科创项目集中路演暨“2019中国·嘉兴航空航天百人会”评委
+
+中国证券业协会证券投资咨询(分析师)
+
+远川研究所智库支持成员
 
 
 # Files
