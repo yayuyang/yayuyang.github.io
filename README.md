@@ -1,4 +1,7 @@
 # <font color='#7093DB'>杨亚宇（Yayu Yang)</font>
+
+![imagrty](PHOTO/YYY.jpg)
+
 E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 1991年，博士，讲师/硕士生导师
@@ -6,10 +9,6 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 电气工程专业，上海海事大学
 
 上海浦东新区海港大道1550号
-
-![imageri](YYY.jpg)
-
-![imagrty](PHOTO/YYY.jpg)
 
 # <font color='#7093DB'>Contents</font>
 
