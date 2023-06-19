@@ -17,7 +17,7 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 ![imagred](YYY.jpg）
 
-![imagred](.YYY.jpg）
+![imagrdsfed](.YYY.jpg）
 
 ![imag](https://github.com/yayuyang/yayuyang.github.io/blob/main/PHOTO/YYY.jpg)
 
