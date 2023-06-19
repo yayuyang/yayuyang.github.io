@@ -1,5 +1,5 @@
 # <font color='#7093DB'>杨亚宇（Yayu Yang)</font>
-E-mail:yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
+E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 博士，讲师/硕士生导师
 
