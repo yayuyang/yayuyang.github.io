@@ -2,6 +2,8 @@
 
 ![imagrty](PHOTO/YYY.jpg)
 
+ <img src="PHOTO/YYY.jpg" width="200" />
+
 1991年，博士，讲师/硕士生导师
 
 电气工程专业，上海海事大学
@@ -40,7 +42,7 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 2009.09-2013.06      西南交通大学电气工程学院电气工程及其自动化专业电力系统及其自动化方向，学士（导师：王晓茹教授）
 
 # <span id="jump2"><font color='#7093DB'>2.Honors and Awards</font></span>
-1)2023年入选上海市青年科技英才扬帆计划
+<font color='#7093DB'>1)2023年入选上海市青年科技英才扬帆计划</font>
 
 2)2022年入选上海高校青年教师培养资助计划（重点推荐）
 
