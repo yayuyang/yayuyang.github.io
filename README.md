@@ -7,9 +7,7 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 上海浦东新区海港大道1550号
 
-<div align=center>
-<!img scr="https://github.com/yayuyang/yayuyang.github.io/blob/main/PHOTO/YYY.jpg" width="100" height="100")
-</div>
+![image](https://github.com/yayuyang/yayuyang.github.io/blob/main/PHOTO/YYY.jpg)
 
 # <font color='#7093DB'>Experience</font>
 2021.05-至今	上海海事大学电气工程专业，讲师
