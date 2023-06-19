@@ -436,7 +436,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 [102]浪潮信息（000977）点评：股权激励授予完成，18Q2服务器收入同增112%
 
 # <font color='#7093DB'>8.Student and Intern Information</font>
-## 电气工程领域
+## <font color='#7093DB'>电气工程领域</font>
 
 |姓名    |本/硕/博 |毕业时间|论文题目                   |毕业去向                        	|备注                                 |
 |--------|---------|------|-----------------------------|---------------------------------------|-------------------------------------|
@@ -444,14 +444,14 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 |蒋欣    |本       |2023年|港口岸电电力系统关键技术分析  |华芯（嘉兴）智能装备有限公司-芯片装备OHT|                                     |
 |金斌杰  |本       |2023年|船舶中压直流电力系统建模和仿真|上海海事大学-电气工程专业读研           |上海海事大学本科生优秀毕业设计（论文）|
 					
-## 证券投资分析领域
+## <font color='#7093DB'>证券投资分析领域</font>
 部分带教实习生进入Columbia University in the City of New York、Carnegie Mellon University、上海财经大学等国内外学校深造；
 
 部分带教实习生进入JP Morgan Chase、国内证券研究所新财富组、国内中型公募基金、私募等公司工作。
 
 # <font color='#7093DB'>9.Admission requirements</font>
-## 电气工程领域
+## <font color='#7093DB'>电气工程领域</font>
 按博士候选人标准培养，有读博意向者优先。本科已学过电力系统分析和电力系统继电保护课程优先。
 
-## 证券投资分析领域
+## <font color='#7093DB'>证券投资分析领域</font>
 财务基础扎实、吃苦耐劳、会使用Wind/Bloomberg优先。择优推荐至国内各证券公司研究所实习6个月以上。
