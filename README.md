@@ -1,4 +1,4 @@
-# <font color=#3299CC>杨亚宇（Yayu Yang)</font>
+# <font color='#3299CC'>杨亚宇（Yayu Yang)</font>
 
 
 
@@ -8,7 +8,7 @@
 <font face="逐浪像素字">我是逐浪像素字</font>
 <font face="逐浪立楷">我是逐浪立楷</font>
 <font color=red>我是红色</font>
-<font color=#008000>我是绿色</font>
+<font color='#008000'>我是绿色</font>
 <font color=yellow>我是黄色</font>
 <font color=Blue>我是蓝色</font>
 <font color= #871F78>我是紫色</font>
