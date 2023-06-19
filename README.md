@@ -213,7 +213,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [21]同花顺对比：2019VS2015
 
-### <font color='#7093DB'>7.B3-行业分析研究8篇</font>
+### <font color='#7093DB'>7.B3-科技行业分析研究8篇</font>
 [1]计算机行业点评报告：中国电信发布服务器集采招标公告，信创行业加速
 
 [2]《智能汽车创新发展战略》发布，看好智能网联汽车行业
@@ -230,7 +230,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [8]2018 Oracle NetSuite 中国峰会感悟：看好云产业链
 
-### <font color='#7093DB'>7.B4-公司分析研究102篇</font>
+### <font color='#7093DB'>7.B4-科技公司分析研究102篇</font>
 [1]中科曙光(603019)：业绩符合预期，海光收入大幅增长
 
 [2]中科创达(300496) ：智能网联汽车、IoT业务高增长，看好长期发展前景
