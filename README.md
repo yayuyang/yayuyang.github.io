@@ -1,4 +1,8 @@
-# yayuyang.github.io
+# 杨亚宇（Yayu Yang)
+E-mail:yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
+博士，讲师/硕士生导师
+电气工程专业，上海海事大学
+上海浦东新区海港大道1550号
 # Welcome to StackEdit!
 
 Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
