@@ -31,6 +31,8 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 [9.Admission requirements](#jump9)
 
+[10.Hobby](#jump10)
+
 # <span id="jump1"><font color='#7093DB'>1.Experience</font></span>
 2021.05-至今	上海海事大学电气工程专业，讲师
 
@@ -465,7 +467,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 ## <font color='#7093DB'>证券投资分析领域</font>
 部分带教实习生进入Columbia University in the City of New York、Carnegie Mellon University、上海财经大学等国内外学校深造；
 
-部分带教实习生进入JP Morgan Chase、国内证券研究所新财富组、国内中型公募基金、私募等公司工作。
+部分带教实习生进入JP Morgan Chase、国内证券研究所新财富组、国内中大型公募基金、私募等公司工作。
 
 # <span id="jump9"><font color='#7093DB'>9.Admission requirements</font></span>
 ## <font color='#7093DB'>电气工程领域</font>
@@ -473,3 +475,8 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 ## <font color='#7093DB'>证券投资分析领域</font>
 财务基础扎实、吃苦耐劳、会使用Wind/Bloomberg优先。择优推荐至国内各证券公司研究所实习6个月以上。
+
+# <span id="jump10"><font color='#7093DB'>10.Hobby</font></span>
+舞蹈：西南交通大学校国标舞队队员，曾参加2010年IDSF世界杯标准舞暨中国成都国际体育舞蹈公开赛选拔赛。曾学过10多种舞蹈(华尔兹，伦巴，恰恰，斗牛，桑巴，爵士，salsa on 1，salsa on 2，bachata，Kizomba等)。
+
+游泳：上海交通大学校游泳队队员（甲组），曾参加2015年上海市大学生游泳锦标赛，2016年上海市大学生游泳锦标赛，主项蝶泳。
