@@ -44,7 +44,7 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 # <span id="jump2"><font color='#7093DB'>2.Honors and Awards</font></span>
 
-**1)中国发明协会发明创业奖创新奖一等奖（5/6）**
+**1)2023年中国发明协会发明创业奖创新奖一等奖（5/6）**
 
 **2)2023年入选上海市青年科技英才扬帆计划**
 
@@ -63,11 +63,13 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 # <span id="jump3"><font color='#7093DB'>3.Services</font></span>
 首届长三角全球科创项目集中路演暨“2019中国·嘉兴航空航天百人会”评委
 
+Session Chair(Session Invited 2.1_Control, Operation, and Protection of Renewable Energy-Based Systems), 2023 IET International Conference on Renewable Power Generation (RPG)
+
 中国证券业协会证券投资咨询(分析师)
 
 中国电工技术学会高级会员
 
-IEEE member
+IEEE member（Power & Energy Society Membership；Oceanic Engineering Society Membership；Industrial Electronics Society Membership）
 
 IET member
 
@@ -99,9 +101,9 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 ### <font color='#7093DB'>7.A1-SCI论文</font>
 [1]**Yayu Yang**, Nengling Tai, Yu Liu, Xiaodong Zheng, Jianjun Ma, Jun Yan, Shu Ye. Calculated DC resistance-based pilot protection scheme for bipolar HVDC transmission lines[J]. IET Generation, Transmission & Distribution, 2022, 16(20): 4027-4039. 
 
-[2]**Yayu Yang**, Nengling Tai, Chunju Fan, Lian Yang, Shi Chen. Resonance frequency-based protection scheme for UHVDC transmission lines[J]. IET Generation, Transmission & Distribution, 2018, 12(2): 318-327. 
+[2]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Lian Yang, Shi Chen. Resonance frequency-based protection scheme for UHVDC transmission lines[J]. IET Generation, Transmission & Distribution, 2018, 12(2): 318-327. 
 
-[3]**Yayu Yang**, Nengling Tai, Chunju Fan, Liu Jian, Miao Chen. A particular AC component protection scheme for bipolar HVDC transmission lines[J]. IEEJ Transactions on Electrical and Electronic Engineering , 2018, 13(5): 732-741.
+[3]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Liu Jian, Miao Chen. A particular AC component protection scheme for bipolar HVDC transmission lines[J]. IEEJ Transactions on Electrical and Electronic Engineering , 2018, 13(5): 732-741.
 
 [4]Shu Ye, Feng Zhang, Fei Gao, Zhongzheng Zhou, **Yayu Yang**. Fault diagnosis for multilevel converters based on an Affine-Invariant riemannian metric autoencoder[J]. IEEE Transactions on Industrial Informatics, 2022, 19(3): 2619-2628.
 
@@ -111,13 +113,13 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 
 ### <font color='#7093DB'>7.A2-《中国电机工程学报》等学报论文</font>
-[1]**杨亚宇**,邰能灵,范春菊,刘琦,陈金祥.利用峰值频率的高压直流输电线路纵联保护方案[J].中国电机工程学报,2017,37(15):4304-4314+4570. (电气工程学科顶刊) 
+[1]**杨亚宇(Corresponding author)**,邰能灵,范春菊,刘琦,陈金祥.利用峰值频率的高压直流输电线路纵联保护方案[J].中国电机工程学报,2017,37(15):4304-4314+4570. (电气工程学科顶刊) 
 
-[2]**杨亚宇**,邰能灵,刘剑,郑晓冬.利用边界能量的高压直流线路纵联保护方案[J].中国电机工程学报,2015,35(22):5757-5767. (电气工程学科顶刊)
+[2]**杨亚宇(Corresponding author)**,邰能灵,刘剑,郑晓冬.利用边界能量的高压直流线路纵联保护方案[J].中国电机工程学报,2015,35(22):5757-5767. (电气工程学科顶刊)
 
 [3]**杨亚宇**,邰能灵,谢卫,郑晓冬,马建军.利用单端边界能量的直流输电线路全线速动保护[J].电工技术学报,2023,38(09):2403-2417.
 
-[4]**杨亚宇**,邰能灵,范春菊,刘剑.基于计算电阻的高压直流输电线路纵联保护[J]. 电工技术学报, 2017, 32(7): 84-94. 
+[4]**杨亚宇(Corresponding author)**,邰能灵,范春菊,刘剑.基于计算电阻的高压直流输电线路纵联保护[J]. 电工技术学报, 2017, 32(7): 84-94. 
 
 [5]马建军，朱淼，**杨亚宇**，杜炤鑫．适用于多工作模式Buck-Boost 变换器的线性变参数模型与宽运行范围控制[J/OL]．中国电机工程学报. https://kns.cnki.net/kcms/ detail/11.2107.TM.20221025.0933.003.html (电气工程学科顶刊)
 
@@ -125,11 +127,15 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 [1]刘月贤,王天钰,**杨亚宇**,王晓茹.电动汽车充放电系统建模与仿真[J].电力系统保护与控制,2014,42(13):70-76.
 
 ### <font color='#7093DB'>7.A4-国际会议论文</font>
-[1]**Yayu Yang**, Nengling Tai, Chunju Fan, Xiaodong Zheng, Jian Liu, Bin Lv. Novel transient current-based protection scheme for DC line faults in UHVDC system[C]．IEEE Power & Energy Society General Meeting, CHICAGO, USA, Jul. 2017. (**Oral**，EI收录)
+[1]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Xiaodong Zheng, Jian Liu, Bin Lv. Novel transient current-based protection scheme for DC line faults in UHVDC system[C]．IEEE Power & Energy Society General Meeting, CHICAGO, USA, Jul. 2017. (**Oral**，EI收录)
 
 [2]**Yayu Yang**, Xin Jiang, Moduo Yu，Shu Ye, Caixia Cai. A review of key technologies of shore power systems. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (**Oral**，EI收录)
 
-[3]Yusheng Qian, Wentao Huang, **Yayu Yang**, Yun Wang, Ran Chen. lnertia control strategy ofvariable frequency motor actively participating in frequency regulation of microgrid. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (EI收录)
+[3]Yu Guan，**Yayu Yang(Corresponding author)**，Xiaoyan Xu，Jianjun Ma，Yu Liu.Research on Shore DC Grids Considering Increasing Penetration of Renewables.IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
+
+[4]Zhiquan Liu, Yu Liu, Dayou Lu, **Yayu Yang**, Rui Fan.Transmission Line Differential Protection Based on Numerical Solution of Partial Differential Equations.IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
+
+[5]Yusheng Qian, Wentao Huang, **Yayu Yang**, Yun Wang, Ran Chen. lnertia control strategy ofvariable frequency motor actively participating in frequency regulation of microgrid. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (EI收录)
 
 ### <font color='#7093DB'>7.A5-其他论文</font>
 [1]张林,邰能灵,刘剑,**杨亚宇**,王彦虹.直流微电网方向纵联保护方法研究[J].电测与仪表,2018,55(20):1-7. (中文核心期刊)
