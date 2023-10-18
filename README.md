@@ -69,7 +69,7 @@ Session Chair(Session Invited 2.1_Control, Operation, and Protection of Renewabl
 
 中国电工技术学会高级会员
 
-IEEE member（Power & Energy Society Membership；Oceanic Engineering Society Membership；Industrial Electronics Society Membership）
+IEEE member（Power & Energy Society；Oceanic Engineering Society；Industrial Electronics Society）
 
 IET member
 
