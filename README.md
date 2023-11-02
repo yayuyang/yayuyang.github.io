@@ -135,7 +135,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [4]Zhiquan Liu, Yu Liu, Dayou Lu, **Yayu Yang**, Rui Fan.Transmission Line Differential Protection Based on Numerical Solution of Partial Differential Equations[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
 
-[5]Yusheng Qian, Wentao Huang, **Yayu Yang**, Yun Wang, Ran Chen. lnertia control strategy ofvariable frequency motor actively participating in frequency regulation of microgrid[C]. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (Poster，EI收录)
+[5]Yusheng Qian, Wentao Huang, **Yayu Yang**, Yun Wang, Ran Chen. Inertia control strategy of variable frequency motor actively participating in frequency regulation of microgrid[C]. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (Poster，EI收录)
 
 ### <font color='#7093DB'>7.A5-其他论文</font>
 [1]张林,邰能灵,刘剑,**杨亚宇**,王彦虹.直流微电网方向纵联保护方法研究[J].电测与仪表,2018,55(20):1-7. (中文核心期刊)
