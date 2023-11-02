@@ -95,7 +95,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 4）上海高校青年教师培养资助计划（重点推荐），电气工程学科建模仿真领域，项目时间：2023.01-2024.12，主持。
 
 # <span id="jump7"><font color='#7093DB'>7.Publications</font></span>
-已发表学术论文10余篇，已授权国家发明专利5项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，**数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载**。完成国内外顶级投资机构科技行业研究课题80个（保密不公开）。
+已发表学术论文10余篇（第一作者和通信作者SCI/EI 10篇），已授权国家发明专利5项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，**数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载**。完成国内外顶级投资机构科技行业研究课题80个（保密不公开）。
 
 ## <font color='#7093DB'>7.A-Academic Publications</font>
 ### <font color='#7093DB'>7.A1-SCI论文</font>
@@ -129,13 +129,13 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 ### <font color='#7093DB'>7.A4-国际会议论文</font>
 [1]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Xiaodong Zheng, Jian Liu, Bin Lv. Novel transient current-based protection scheme for DC line faults in UHVDC system[C]．IEEE Power & Energy Society General Meeting, CHICAGO, USA, Jul. 2017. (**Oral**，EI收录)
 
-[2]**Yayu Yang**, Xin Jiang, Moduo Yu，Shu Ye, Caixia Cai. A review of key technologies of shore power systems. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (**Oral**，EI收录)
+[2]**Yayu Yang**, Xin Jiang, Moduo Yu，Shu Ye, Caixia Cai. A review of key technologies of shore power systems[C]. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (**Oral**，EI收录)
 
-[3]Yu Guan，**Yayu Yang(Corresponding author)**，Xiaoyan Xu，Jianjun Ma，Yu Liu.Research on Shore DC Grids Considering Increasing Penetration of Renewables.IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
+[3]Yu Guan，**Yayu Yang(Corresponding author)**，Xiaoyan Xu，Jianjun Ma，Yu Liu.Research on Shore DC Grids Considering Increasing Penetration of Renewables[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
 
-[4]Zhiquan Liu, Yu Liu, Dayou Lu, **Yayu Yang**, Rui Fan.Transmission Line Differential Protection Based on Numerical Solution of Partial Differential Equations.IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
+[4]Zhiquan Liu, Yu Liu, Dayou Lu, **Yayu Yang**, Rui Fan.Transmission Line Differential Protection Based on Numerical Solution of Partial Differential Equations[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
 
-[5]Yusheng Qian, Wentao Huang, **Yayu Yang**, Yun Wang, Ran Chen. lnertia control strategy ofvariable frequency motor actively participating in frequency regulation of microgrid. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (EI收录)
+[5]Yusheng Qian, Wentao Huang, **Yayu Yang**, Yun Wang, Ran Chen. lnertia control strategy ofvariable frequency motor actively participating in frequency regulation of microgrid[C]. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (Poster，EI收录)
 
 ### <font color='#7093DB'>7.A5-其他论文</font>
 [1]张林,邰能灵,刘剑,**杨亚宇**,王彦虹.直流微电网方向纵联保护方法研究[J].电测与仪表,2018,55(20):1-7. (中文核心期刊)
