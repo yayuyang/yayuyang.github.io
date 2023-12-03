@@ -69,6 +69,8 @@ Session Chair(Session Invited 2.1_Control, Operation, and Protection of Renewabl
 
 中国电工技术学会高级会员
 
+IEEE PES电力系统保护控制技术委员会（中国）配电网保护控制技术分委会成员
+
 IEEE member（Power & Energy Society；Oceanic Engineering Society；Industrial Electronics Society）
 
 IET member
