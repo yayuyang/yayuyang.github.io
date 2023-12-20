@@ -133,9 +133,11 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [2]**Yayu Yang**, Xin Jiang, Moduo Yu，Shu Ye, Caixia Cai. A review of key technologies of shore power systems[C]. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (**Oral**，EI收录)
 
-[3]Yu Guan，**Yayu Yang(Corresponding author)**，Xiaoyan Xu，Jianjun Ma，Yu Liu.Research on Shore DC Grids Considering Increasing Penetration of Renewables[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
+[3]Yu Guan，**Yayu Yang(Corresponding author)**，Xiaoyan Xu，Jianjun Ma，Yu Liu.Research on shore DC Grids considering increasing penetration of renewables[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
 
-[4]Zhiquan Liu, Yu Liu, Dayou Lu, **Yayu Yang**, Rui Fan.Transmission Line Differential Protection Based on Numerical Solution of Partial Differential Equations[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
+[4]Shuangnan Gu, **Yayu Yang(Corresponding author)**, Wenchao Shi, Jijian Tong. Shore power system load forecasting model based on IDBO algorithm and PCA-BiLSTM network[C].2023 2nd International Conference on Smart Energy and Electrical Engineering(SEEE 2023), Dec. 2023. (Poster，EI收录)
+
+[5]Zhiquan Liu, Yu Liu, Dayou Lu, **Yayu Yang**, Rui Fan.Transmission Line Differential Protection Based on Numerical Solution of Partial Differential Equations[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
 
 ### <font color='#7093DB'>7.A5-其他论文</font>
 [1]张林,邰能灵,刘剑,**杨亚宇**,王彦虹.直流微电网方向纵联保护方法研究[J].电测与仪表,2018,55(20):1-7. (中文核心期刊)
