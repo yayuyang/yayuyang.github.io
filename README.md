@@ -61,7 +61,7 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 8)2017年上海交通大学博士生国家奖学金
 
 # <span id="jump3"><font color='#7093DB'>3.Services</font></span>
-首届长三角全球科创项目集中路演暨“2019中国·嘉兴航空航天百人会”评委
+**首届长三角全球科创项目集中路演暨“2019中国·嘉兴航空航天百人会”主会场评委**
 
 Session Chair(Session Invited 2.1_Control, Operation, and Protection of Renewable Energy-Based Systems), 2023 IET International Conference on Renewable Power Generation (RPG)
 
