@@ -135,13 +135,17 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 ### <font color='#7093DB'>7.A4-国际会议论文</font>
 [1]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Xiaodong Zheng, Jian Liu, Bin Lv. Novel transient current-based protection scheme for DC line faults in UHVDC system[C]．IEEE Power & Energy Society General Meeting, CHICAGO, USA, Jul. 2017. (**Oral**，EI收录)
 
-[2]**Yayu Yang**, Xin Jiang, Moduo Yu，Shu Ye, Caixia Cai. A review of key technologies of shore power systems[C]. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (**Oral**，EI收录)
+[2]**Yayu Yang**,Binjie Jin，Yu Liu，Xu Wei, Kangan Wang, Xipeng Zhang. Modeling and simulation of medium voltage DC  power system for all electric ship[C]．2024 2nd International Conference on Power Science and Technology (ICPST 2024), May. 2024. (**Oral**，EI收录)
 
-[3]Yu Guan，**Yayu Yang(Corresponding author)**，Xiaoyan Xu，Jianjun Ma，Yu Liu.Research on shore DC Grids considering increasing penetration of renewables[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
+[3]**Yayu Yang**, Xin Jiang, Moduo Yu，Shu Ye, Caixia Cai. A review of key technologies of shore power systems[C]. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (**Oral**，EI收录)
 
-[4]Shuangnan Gu, **Yayu Yang(Corresponding author)**, Wenchao Shi, Jijian Tong. Shore power system load forecasting model based on IDBO algorithm and PCA-BiLSTM network[C].2023 2nd International Conference on Smart Energy and Electrical Engineering(SEEE 2023), Dec. 2023. (Poster，EI收录)
+[4]Jijian Tong, **Yayu Yang(Corresponding author)**，Xiaoyan. Xu, Gengwu Zhang, Feng Yuan, Guang Xiang, Kangan Wang. Shore Power System Load Forecasting Model Based on QPSO-LSTM Network[C]. 2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (**Oral**，EI收录)
 
-[5]Zhiquan Liu, Yu Liu, Dayou Lu, **Yayu Yang**, Rui Fan.Transmission line differential protection based on numerical solution of partial differential equations[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
+[5]Yu Guan，**Yayu Yang(Corresponding author)**，Xiaoyan Xu，Jianjun Ma，Yu Liu.Research on shore DC Grids considering increasing penetration of renewables[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
+
+[6]Shuangnan Gu, **Yayu Yang(Corresponding author)**, Wenchao Shi, Jijian Tong. Shore power system load forecasting model based on IDBO algorithm and PCA-BiLSTM network[C].2023 2nd International Conference on Smart Energy and Electrical Engineering(SEEE 2023), Dec. 2023. (Poster，EI收录)
+
+[7]Zhiquan Liu, Yu Liu, Dayou Lu, **Yayu Yang**, Rui Fan.Transmission line differential protection based on numerical solution of partial differential equations[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
 
 ### <font color='#7093DB'>7.A5-其他论文</font>
 [1]张林,邰能灵,刘剑,**杨亚宇**,王彦虹.直流微电网方向纵联保护方法研究[J].电测与仪表,2018,55(20):1-7. (中文核心期刊)
@@ -151,7 +155,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 ### <font color='#7093DB'>7.A6-发明专利</font>
 [1]**杨亚宇**,金斌杰,黄文焘,方斯顿,余墨多,李俊锋.一种高性能船舶中压直流综合电力系统拓扑结构, 2023年申请, 中国国家发明专利,. ZL202311658366.3 (已申请)
 
-[2]**杨亚宇**,邰能灵,黄文焘,张林,魏旭,王康安,贺杨烊,肖正光.直流输电线路单端量快速保护方法, 2021年申请, 中国国家发明专利,. ZL202111546132.0 (已进入实质审查)
+[2]**杨亚宇**,邰能灵,黄文焘,张林,魏旭,王康安,贺杨烊,肖正光.直流输电线路单端量快速保护方法, 2021年申请, 中国国家发明专利,. ZL202111546132.0 (已授权)
 
 [3]**杨亚宇**,邰能灵,范春菊,郑晓冬,黄文焘.基于特定频段电流的特高压直流线路保护方法, 2019-4-5, 中国国家发明专利, ZL201810115548.9(已授权)
 
