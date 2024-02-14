@@ -97,7 +97,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 4）上海高校青年教师培养资助计划（重点推荐），电气工程学科建模仿真领域，项目时间：2023.01-2024.12，主持。
 
 # <span id="jump7"><font color='#7093DB'>7.Publications</font></span>
-已发表学术论文21篇（第一作者和通信作者SCI/EI 13篇），已授权国家发明专利5项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，**数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载**。完成国内外顶级投资机构科技行业研究课题80个（保密不公开）。
+已发表学术论文25篇（第一作者和通信作者SCI/EI 15篇），已授权国家发明专利6项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，**数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载**。完成国内外顶级投资机构科技行业研究课题80个（保密不公开）。
 
 ## <font color='#7093DB'>7.A-Academic Publications</font>
 ### <font color='#7093DB'>7.A1-SCI论文</font>
@@ -146,6 +146,12 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 [6]Shuangnan Gu, **Yayu Yang(Corresponding author)**, Wenchao Shi, Jijian Tong. Shore power system load forecasting model based on IDBO algorithm and PCA-BiLSTM network[C].2023 2nd International Conference on Smart Energy and Electrical Engineering(SEEE 2023), Dec. 2023. (Poster，EI收录)
 
 [7]Zhiquan Liu, Yu Liu, Dayou Lu, **Yayu Yang**, Rui Fan.Transmission line differential protection based on numerical solution of partial differential equations[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
+
+[8][C]. 2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (**Oral**，EI收录)
+
+
+[9][C]. 2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (**Oral**，EI收录)
+
 
 ### <font color='#7093DB'>7.A5-其他论文</font>
 [1]张林,邰能灵,刘剑,**杨亚宇**,王彦虹.直流微电网方向纵联保护方法研究[J].电测与仪表,2018,55(20):1-7. (中文核心期刊)
