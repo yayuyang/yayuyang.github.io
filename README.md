@@ -150,7 +150,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 [8]Chenjie Fan, Kangan Wang, Siyu Wu, **Yayu Yang**, Jiale Li, Weimin Wu. Analysis of switching characterization and power loss of bidirectional asymmetrical power flow DC/DC converters[C]．2024 2nd International Conference on Power Science and Technology (ICPST 2024), May. 2024.(EI收录)
 
 
-[9][C]. 2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (EI收录)
+[9]Junchen Wu, Kangan Wang, **Yayu Yang**, Weimin Wu. A synchronous rectification method of CLLC resonant converter based on inner phase-shift modulation strategy under light load conditions[C]．2024 2nd International Conference on Power Science and Technology (ICPST 2024), May. 2024. (EI收录)
 
 
 ### <font color='#7093DB'>7.A5-其他论文</font>
