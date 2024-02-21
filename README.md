@@ -139,7 +139,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [3]**Yayu Yang**, Xin Jiang, Moduo Yu，Shu Ye, Caixia Cai. A review of key technologies of shore power systems[C]. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (**Oral**，EI收录)
 
-[4]Jijian Tong, **Yayu Yang(Corresponding author)**，Xiaoyan. Xu, Gengwu Zhang, Feng Yuan, Guang Xiang, Kangan Wang. Shore Power System Load Forecasting Model Based on QPSO-LSTM Network[C]. 2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (**Oral**，EI收录)
+[4]Jijian Tong, **Yayu Yang(Corresponding author)**，Xiaoyan. Xu, Gengwu Zhang, Feng Yuan, Guang Xiang, Kangan Wang. Shore Power System Load Forecasting Model Based on QPSO-LSTM Network[C]. 2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (Poster，EI收录)
 
 [5]Yu Guan，**Yayu Yang(Corresponding author)**，Xiaoyan Xu，Jianjun Ma，Yu Liu.Research on shore DC Grids considering increasing penetration of renewables[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
 
@@ -147,10 +147,10 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [7]Zhiquan Liu, Yu Liu, Dayou Lu, **Yayu Yang**, Rui Fan.Transmission line differential protection based on numerical solution of partial differential equations[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
 
-[8][C]. 2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (**Oral**，EI收录)
+[8]Chenjie Fan, Kangan Wang, Siyu Wu, **Yayu Yang**, Jiale Li, Weimin Wu. Analysis of switching characterization and power loss of bidirectional asymmetrical power flow DC/DC converters[C]．2024 2nd International Conference on Power Science and Technology (ICPST 2024), May. 2024.(EI收录)
 
 
-[9][C]. 2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (**Oral**，EI收录)
+[9][C]. 2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (EI收录)
 
 
 ### <font color='#7093DB'>7.A5-其他论文</font>
