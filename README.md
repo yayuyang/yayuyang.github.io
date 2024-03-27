@@ -80,7 +80,7 @@ IET member
 远川研究所智库支持成员
 
 # <span id="jump4"><font color='#7093DB'>4.Reviewer</font></span>
-IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatics、IET Generation, Transmission & Distribution、IET Renewable Power Generation、International Transactions on Electrical Energy Systems、Protection and Control of Modern Power Systems、IEEE Access、IETE Journal of Research、电工技术学报、上海交通大学学报等国内外期刊
+IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatics、IET Generation, Transmission & Distribution、IET Renewable Power Generation、Journal of Modern Power Systems and Clean Energy、Protection and Control of Modern Power Systems、International Transactions on Electrical Energy Systems、Protection and Control of Modern Power Systems、IEEE Access、IETE Journal of Research、电工技术学报、上海交通大学学报等国内外期刊
 
 # <span id="jump5"><font color='#7093DB'>5.Research Interests</font></span>
 电力系统自动化：电力系统继电保护、直流输配电系统、船舶电力系统等。
