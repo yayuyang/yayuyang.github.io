@@ -31,7 +31,7 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 [9.Admission requirements](#jump9)
 
-<!-- [10.Hobby](#jump10) -->
+[10.Hobby](#jump10)
 
 # <span id="jump1"><font color='#7093DB'>1.Experience</font></span>
 2021.05-至今	上海海事大学电气工程专业，讲师
