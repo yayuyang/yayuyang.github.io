@@ -3,7 +3,7 @@
 
  <img src="PHOTO/YYY.jpg" width="400" />
 
-1991年，博士，讲师/硕士生导师
+<!-- 1991年，博士，讲师/硕士生导师
 
 电气工程专业，上海海事大学
 
@@ -511,7 +511,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 ## <font color='#7093DB'>证券投资分析领域</font>
 财务基础扎实、吃苦耐劳、会使用Wind/Bloomberg优先。择优推荐至国内各证券公司研究所实习6个月以上。
 
-<!-- # <span id="jump10"><font color='#7093DB'>10.Hobby</font></span>
+# <span id="jump10"><font color='#7093DB'>10.Hobby</font></span>
 舞蹈：西南交通大学校国标舞队队员，曾参加2010年IDSF世界杯标准舞暨中国成都国际体育舞蹈公开赛选拔赛。曾学过10多种舞蹈(华尔兹，伦巴，恰恰，斗牛，桑巴，爵士，salsa on 1，salsa on 2，bachata，Kizomba等)。
 
 游泳：上海交通大学校游泳队队员（甲组），曾参加2015年上海市大学生游泳锦标赛，2016年上海市大学生游泳锦标赛，主项蝶泳。-->
