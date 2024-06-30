@@ -97,7 +97,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 4）上海高校青年教师培养资助计划（重点推荐），电气工程学科建模仿真领域，项目时间：2023.01-2024.12，主持。
 
 # <span id="jump7"><font color='#7093DB'>7.Publications</font></span>
-已发表学术论文27篇（第一作者和通信作者SCI/EI 15篇），已授权国家发明专利6项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，**数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载**。完成国内外顶级投资机构科技行业研究课题80个（保密不公开）。
+已发表学术论文28篇（第一作者和通信作者SCI/EI 15篇），已授权国家发明专利6项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，**数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载**。完成国内外顶级投资机构科技行业研究课题80个（保密不公开）。
 
 ## <font color='#7093DB'>7.A-Academic Publications</font>
 ### <font color='#7093DB'>7.A1-SCI论文</font>
@@ -130,7 +130,9 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 [7]马建军，朱淼，**杨亚宇**，杜炤鑫．适用于多工作模式Buck-Boost变换器的线性变参数模型与宽运行范围控制[J].中国电机工程学报,2023,43(21):8423-8434.(电气工程学科顶刊)
 
 ### <font color='#7093DB'>7.A3-其他EI期刊论文</font>
-[1]刘月贤,王天钰,**杨亚宇**,王晓茹.电动汽车充放电系统建模与仿真[J].电力系统保护与控制,2014,42(13):70-76.
+[1]楼佳辉,黄文焘,杨欢红,余墨多,**杨亚宇**.港口电动岸桥运行轨迹规划及其路径功率优化控制[J/OL].上海交通大学学报:1-21[2024-06-30].DOI:10.16183/j.cnki.jsjtu.2024.097.
+
+[2]刘月贤,王天钰,**杨亚宇**,王晓茹.电动汽车充放电系统建模与仿真[J].电力系统保护与控制,2014,42(13):70-76.
 
 ### <font color='#7093DB'>7.A4-国际会议论文</font>
 [1]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Xiaodong Zheng, Jian Liu, Bin Lv. Novel transient current-based protection scheme for DC line faults in UHVDC system[C]．IEEE Power & Energy Society General Meeting, CHICAGO, USA, Jul. 2017. (**Oral**，EI收录)
