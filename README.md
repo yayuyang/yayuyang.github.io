@@ -109,7 +109,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [4]Shu Ye, Feng Zhang, Fei Gao, Zhongzheng Zhou, **Yayu Yang**. Fault diagnosis for multilevel converters based on an Affine-Invariant riemannian metric autoencoder[J]. IEEE Transactions on Industrial Informatics, 2022, 19(3): 2619-2628.
 
-[5]Baichuan Teng, Jianjun Ma, Miao Zhu, **Yayu Yang**, Xu Cai. Fault‐tolerant DC‐DC converter interconnected with energy storage device for bipolar distribution system: Working modes and optimizing control strategy[J]. IET Generation, Transmission & Distribution,2023, Early Access,  https:// doi.org/ 10.1049/ gtd2.12946.
+[5]Baichuan Teng, Jianjun Ma, Miao Zhu, **Yayu Yang**, Xu Cai. Fault‐tolerant DC‐DC converter interconnected with energy storage device for bipolar distribution system: Working modes and optimizing control strategy[J]. IET Generation, Transmission & Distribution,2023, 17(19): 4258-4276..
 
 [6]Jian Liu, Negnling Tai, Chunju Fan, **Yayu Yang**. Transient measured impedance-based protection scheme for DC line faults in ultra high-voltage direct-current system[J]. IET Generation, Transmission & Distribution, 2016, 10(14): 3597-3609.
 
