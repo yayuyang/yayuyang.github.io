@@ -97,7 +97,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 4）上海高校青年教师培养资助计划（重点推荐），电气工程学科建模仿真领域，项目时间：2023.01-2024.12，主持。
 
 # <span id="jump7"><font color='#7093DB'>7.Publications</font></span>
-已发表学术论文29篇（第一作者和通信作者SCI/EI 16篇），已授权国家发明专利6项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，**数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载**。完成国内外顶级投资机构科技行业研究课题80个（保密不公开）。
+已发表学术论文30篇（第一作者和通信作者SCI/EI 16篇），已授权国家发明专利6项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，**数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载**。完成国内外顶级投资机构科技行业研究课题80个（保密不公开）。
 
 ## <font color='#7093DB'>7.A-Academic Publications</font>
 ### <font color='#7093DB'>7.A1-SCI论文</font>
@@ -113,6 +113,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [6]Jian Liu, Negnling Tai, Chunju Fan, **Yayu Yang**. Transient measured impedance-based protection scheme for DC line faults in ultra high-voltage direct-current system[J]. IET Generation, Transmission & Distribution, 2016, 10(14): 3597-3609.
 
+[7]Caixia Cai, Fuli Zhong, Han Hai, Mingzhi Chen, Wenyang Gan, Bing Sun, **Yayu Yang**. Energy-efficient two-way full-duplex relay transmission strategy with SWIPT and direct links[J]. EURASIP Journal on Wireless Communications and Networking, 2024, 2024(1): 17.
 
 ### <font color='#7093DB'>7.A2-《中国电机工程学报》等学报论文</font>
 [1]**杨亚宇(Corresponding author)**,邰能灵,范春菊,刘琦,陈金祥.利用峰值频率的高压直流输电线路纵联保护方案[J].中国电机工程学报,2017,37(15):4304-4314+4570. (电气工程学科顶刊) 
