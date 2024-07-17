@@ -118,22 +118,40 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 ### <font color='#7093DB'>7.A2-《中国电机工程学报》等学报论文</font>
 [1]**杨亚宇(Corresponding author)**,邰能灵,范春菊,刘琦,陈金祥.利用峰值频率的高压直流输电线路纵联保护方案[J].中国电机工程学报,2017,37(15):4304-4314+4570. (电气工程学科顶刊) 
 
+**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Qi Liu, Jinxiang Chen. A pilot protection scheme for HVDC transmission lines based on specific-frequency [J]. Proceedings of the CSEE, 2017,37(15):4304-4314+4570.
+
 [2]**杨亚宇(Corresponding author)**,邰能灵,刘剑,郑晓冬.利用边界能量的高压直流线路纵联保护方案[J].中国电机工程学报,2015,35(22):5757-5767. (电气工程学科顶刊)
+
+**Yayu Yang(Corresponding author)**, Nengling Tai, Liu Jian, Xiaodong Zheng. A pilot protection scheme for HVDC transmission lines based on boundary energy [J]. Proceedings of the CSEE, 2015, 35(22): 5757-5767. 
 
 [3]**杨亚宇**,邰能灵,黄文焘,马建军,方斯顿.船舶中压直流综合电力系统(一):系统结构和电力电子变换器[J].电工技术学报,2024,已录用.
 
+**Yayu Yang**, Nengling Tai, Wentao Huang, Jianjun Ma, Sidun Fang. Shipboard medium-voltage DC integrated power system (I): system architecture and power electronic converter[J]. Transactions of China Electrotechnical Society, 2024, Accepted.
+
 [4]**杨亚宇**,邰能灵,黄文焘,余墨多,刘宇.船舶中压直流综合电力系统(二):故障保护管理技术[J].电工技术学报,2024,已录用.
+
+**Yayu Yang**, Nengling Tai, Wentao Huang, Moduo Yu, Yu Liu. Shipboard medium-voltage DC integrated power system (II): protection and fault management technology[J]. Transactions of China Electrotechnical Society, 2024, Accepted.
 
 [5]**杨亚宇**,邰能灵,谢卫,郑晓冬,马建军.利用单端边界能量的直流输电线路全线速动保护[J].电工技术学报,2023,38(09):2403-2417.
 
+**Yayu Yang**, Nengling Tai, Wei Xie, Xiaodong Zheng, Jianjun Ma. A whole-line fast protection scheme for HVDC transmission line based on single-ended boundary energy [J]. Transactions of China Electrotechnical Society, 2023, 38(9): 2403-2417.
+
 [6]**杨亚宇(Corresponding author)**,邰能灵,范春菊,刘剑.基于计算电阻的高压直流输电线路纵联保护[J]. 电工技术学报, 2017, 32(7): 84-94. 
 
+**Yayu Yang**, Nengling Tai, Chunju Fan, Jian Liu. A pilot protection scheme for HVDC transmission lines based on calculated resistance [J]. Transactions of China Electrotechnical Society, 2017, 32(7): 84-94.
+
 [7]马建军，朱淼，**杨亚宇**，杜炤鑫．适用于多工作模式Buck-Boost变换器的线性变参数模型与宽运行范围控制[J].中国电机工程学报,2023,43(21):8423-8434.(电气工程学科顶刊)
+
+**Jianjun Ma**, Miao Zhu, Yayu Yang, Zhaoxin Du. LPV modeling and wide range voltage regulation of multimode buck-boost converter[J]. Proceedings of the CSEE, 2023,43(21): 8423-8434.
 
 ### <font color='#7093DB'>7.A3-其他EI期刊论文</font>
 [1]楼佳辉,黄文焘,杨欢红,余墨多,**杨亚宇**.港口电动岸桥运行轨迹规划及其路径功率优化控制[J/OL].上海交通大学学报:1-21[2024-06-30].DOI:10.16183/j.cnki.jsjtu.2024.097.
 
+Jiahui Lou, Wentao Huang, Huanhong Yang, Moduo Yu, **Yayu Yang**. Operation trajectory planning and power optimization control of electric quay crane in port[J]. Journal of Shanghai Jiao Tong University, 2024, DOI:10.16183/j.cnki.jsjtu.2024.097.
+
 [2]刘月贤,王天钰,**杨亚宇**,王晓茹.电动汽车充放电系统建模与仿真[J].电力系统保护与控制,2014,42(13):70-76.
+
+Yuexian Liu, Tianyu Wang, **Yayu Yang**, Xiaoru Wang. Modeling and simulation of electric vehicles’ charge and discharge system [J]. Power System Protection and Control, 2014, 42(13): 70-76.
 
 ### <font color='#7093DB'>7.A4-国际会议论文</font>
 [1]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Xiaodong Zheng, Jian Liu, Bin Lv. Novel transient current-based protection scheme for DC line faults in UHVDC system[C]．IEEE Power & Energy Society General Meeting, CHICAGO, USA, Jul. 2017. (**Oral**，EI收录)
@@ -163,22 +181,38 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 ### <font color='#7093DB'>7.A5-其他论文</font>
 [1]张林,邰能灵,刘剑,**杨亚宇**,王彦虹.直流微电网方向纵联保护方法研究[J].电测与仪表,2018,55(20):1-7. (中文核心期刊)
 
+Lin Zhang, NenglingTai, Jian Liu, **Yayu Yang**, Yanhong Wang Analysis of directional pilot protection method for DC microgrid[J].  Electrical Measurement & Instrumentation, 2018,55(20):1-7.
+
 [2]陈金熠,冯宇虹,袁晨,宁连营,**杨亚宇**,郑晓冬. 分布式能源接入电网电能质量问题研究[C].2017智能电网信息化建设研讨会论文集,2017:336-339+348.
 
 ### <font color='#7093DB'>7.A6-发明专利</font>
 [1]**杨亚宇**,金斌杰,黄文焘,方斯顿,余墨多,李俊锋.一种高性能船舶中压直流综合电力系统拓扑结构, 2023年申请, 中国国家发明专利,. ZL202311658366.3 (已申请)
 
+**Yayu Yang**, Binjie Jin, Wentao Huang, Sidun Fang, Moduo Yu, Junfeng Li. A high-performance medium-voltage DC shipboard power system architecture, China National Invention Patents, ZL202311658366.3, 2023. (Under review)
+
 [2]**杨亚宇**,邰能灵,黄文焘,张林,魏旭,王康安,贺杨烊,肖正光.直流输电线路单端量快速保护方法, 2021年申请, 中国国家发明专利,. ZL202111546132.0 (已授权)
+
+**Yayu Yang**, Nengling Tai, Wentao Huang, Lin Zhang, Xu Wei, Kangan Wang, Yangyang He, Zhengguang Xiao. A fast protection method for single-ended DC transmission lines, China National Invention Patents, ZL202111546132.0, 2021.  (Authorized)
 
 [3]**杨亚宇**,邰能灵,范春菊,郑晓冬,黄文焘.基于特定频段电流的特高压直流线路保护方法, 2019-4-5, 中国国家发明专利, ZL201810115548.9(已授权)
 
+**Yayu Yang**, Nengling Tai, Chunju Fan, Xiaodong Zheng, Wentao Huang. A UHVDC line protection method based on current of specific frequency band, China National Invention Patents, ZL201810115548.9,2018.  (Authorized)
+
 [4]**杨亚宇**,邰能灵,范春菊,刘剑.基于边界能量的高压直流线路纵联保护方法, 2017-4-19, 中国国家发明专利, ZL201410620596.5 (已授权)
+
+**Yayu Yang**, Nengling Tai, Chunju Fan, Liu Jian. Boundary-energy-based Protection Scheme for HVDC Transmission Lines, China National Invention Patents, ZL201410620596.5,2014. (Authorized)
 
 [5]**杨亚宇**,邰能灵,郑晓冬,范春菊.基于故障直流分量的高压直流线路纵联保护方法, 2017-10-3, 中国国家发明专利, ZL201510744155.0 (已授权)
 
+**Yayu Yang**, Nengling Tai, Xiaodong Zheng, Chunju Fan.  A Protection Scheme for HVDC Transmission Lines Based on Fault DC Component,China National Invention Patents,  ZL201510744155.0,2015. (Authorized)
+
 [6]刘剑,邰能灵,范春菊,**杨亚宇**,郑晓冬.基于频带测量阻抗的特高压直流线路故障判别方法, 2018-7-27, 中国国家发明专利, ZL201610227884.3(已授权)
 
+Liu Jian, Nengling Tai, Chunju Fan, **Yayu Yang**, Xiaodong Zheng. A UHVDC line fault discrimination method based on band-measurement-impedance,China National Invention Patents, ZL201610227884.3,2016. (Authorized)
+
 [7]刘剑,邰能灵,范春菊,**杨亚宇**,陈实.电流相关性的柔性高压直流线路保护方法, 2018-9-21, 中国国家发明专利, ZL201610223498.7(已授权)
+
+Liu Jian, Nengling Tai, Chunju Fan, **Yayu Yang**, Shi Chen. A DC line protection method based on current correlation,China National Invention Patents, ZL201610223498.7,2016. (Authorized)
 
 [8]蔡彩霞,甘文洋,**杨亚宇**,郭燚,姚刚.一种用于无线中继通信系统的资源优化分配方法, 2022年申请, 中国国家发明专利,. ZL202210991693. X (已进入实质审查)
 
