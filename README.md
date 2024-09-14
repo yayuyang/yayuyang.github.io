@@ -115,6 +115,26 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [7]Caixia Cai, Fuli Zhong, Han Hai, Mingzhi Chen, Wenyang Gan, Bing Sun, **Yayu Yang**. Energy-efficient two-way full-duplex relay transmission strategy with SWIPT and direct links[J]. EURASIP Journal on Wireless Communications and Networking, 2024, 2024(1): 17.
 
+<!-- 
+Collaborative planning of multiple energy storage systems in seaport integrated energy system
+Corresponding Author: Dr. Bo Li
+
+Parasitic Resistance Effect on Four Switch Buck–Boost Converter for Wide Range Voltage Control" to the IEEE Journal of Emerging and Selected Topics in Industrial Electronics as a Regular Submission submission.majianjun
+
+Analysis and Suppression of Common-mode Circulating Current in Hybrid DC-DC Converters with Bidirectional Asymmetric Power Flow (TPEL-Reg-2024-08-2407) has been submitted by to the IEEE Transactions on Power Electronics wangkangan
+
+Technical principles for shore power system planning；Hao Ding 1 , Yayu Yang 1,2,* , Xiaoyan Xu 1 , Weixiang Zhou 1 and Caixia Cai 1会议
+
+Swarm Intelligence Based Optimal Design of Local Volt/Var Control Function for Distributed Energy Resources
+Zhengfa Zhang†, Yuqing Dong†, Jiaojiao Dong†, Jin Dong‡, Boming Liu‡, Yayu Yang†, Teja Kuruganti§, Yilu Liu†会议
+
+Towards 100% Renewable Power Grids: A Review
+
+Refining the Notional MVDC Shipboard Power System: Improved Design and Simulation Analysis
+
+-->
+
+
 ### <font color='#7093DB'>7.A2-《中国电机工程学报》等学报论文</font>
 [1]**杨亚宇(Corresponding author)**,邰能灵,范春菊,刘琦,陈金祥.利用峰值频率的高压直流输电线路纵联保护方案[J].中国电机工程学报,2017,37(15):4304-4314+4570. (电气工程学科顶刊) 
 
@@ -556,3 +576,5 @@ Caixia Cai, Wenyang Gan, **Yayu Yang**, Yi Guo, Gang Yao.A resource optimization
 <!-- 舞蹈：西南交通大学校国标舞队队员，曾参加2010年IDSF世界杯标准舞暨中国成都国际体育舞蹈公开赛选拔赛。曾学过10多种舞蹈(华尔兹，伦巴，恰恰，斗牛，桑巴，爵士，salsa on 1，salsa on 2，bachata，Kizomba等)。
 
 游泳：上海交通大学校游泳队队员（甲组），曾参加2015年上海市大学生游泳锦标赛，2016年上海市大学生游泳锦标赛，主项蝶泳。-->
+
+
