@@ -5,9 +5,9 @@
 
 1991年，博士，讲师/硕士生导师
 
-电气工程专业，上海海事大学
+电气工程专业，上海海事大学/The University of Tennessee, Knoxville
 
-上海浦东新区海港大道1550号
+中国上海浦东新区海港大道1550号/Min H. Kao Building,1520 Middle Drive, Knoxville TN, USA
 
 E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
@@ -34,6 +34,10 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 [10.Hobby](#jump10)
 
 # <span id="jump1"><font color='#7093DB'>1.Experience</font></span>
+2024.05-至今     Department of Electrical Engineering and Computer Science, The University of Tennessee, Knoxville, Research Scientist
+
+2024.05-至今     Center for Ultra-Wide-Area Resilient Electric Energy Transmission Networks, The University of Tennessee, Knoxville, Research Scientist 
+
 2021.05-至今	上海海事大学电气工程专业，讲师
 
 2018.06-2021.05      中泰证券研究所科技组，TMT行业证券分析师
