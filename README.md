@@ -3,7 +3,7 @@
 
  <img src="PHOTO/YYY.jpg" width="400" />
 
-1991年，博士，讲师/硕士生导师
+1991年，博士，硕士生导师/Research Scientist
 
 电气工程专业，上海海事大学/The University of Tennessee, Knoxville
 
