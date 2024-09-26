@@ -34,9 +34,9 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 [10.Hobby](#jump10)
 
 # <span id="jump1"><font color='#7093DB'>1.Experience</font></span>
-2024.05-至今     Department of Electrical Engineering and Computer Science, The University of Tennessee, Knoxville, Research Scientist
+2024.05-至今     Department of Electrical Engineering and Computer Science, The University of Tennessee, Knoxville, Research Scientis(导师：Yilu Liu院士)
 
-2024.05-至今     Center for Ultra-Wide-Area Resilient Electric Energy Transmission Networks, The University of Tennessee, Knoxville, Research Scientist 
+2024.05-至今     Center for Ultra-Wide-Area Resilient Electric Energy Transmission Networks, The University of Tennessee, Knoxville, Research Scientist(导师：Yilu Liu院士)
 
 2021.05-至今	上海海事大学电气工程专业，讲师
 
