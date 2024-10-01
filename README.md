@@ -220,35 +220,43 @@ Lin Zhang, NenglingTai, Jian Liu, **Yayu Yang**, Yanhong Wang Analysis of direct
 [2]陈金熠,冯宇虹,袁晨,宁连营,**杨亚宇**,郑晓冬. 分布式能源接入电网电能质量问题研究[C].2017智能电网信息化建设研讨会论文集,2017:336-339+348.
 
 ### <font color='#7093DB'>7.A6-发明专利</font>
-[1]**杨亚宇**,金斌杰,黄文焘,方斯顿,余墨多,李俊锋.一种高性能船舶中压直流综合电力系统拓扑结构, 2023年申请, 中国国家发明专利,. ZL202311658366.3 (已申请)
+[1]**杨亚宇**,金斌杰,黄文焘,方斯顿,余墨多,李俊锋.一种高性能船舶中压直流综合电力系统拓扑结构, 2023年申请, 中国国家发明专利,. ZL202311658366.3 (已实审)
 
 **Yayu Yang**, Binjie Jin, Wentao Huang, Sidun Fang, Moduo Yu, Junfeng Li. A high-performance medium-voltage DC shipboard power system architecture, China National Invention Patents, ZL202311658366.3, 2023. (Under review)
 
-[2]**杨亚宇**,邰能灵,黄文焘,张林,魏旭,王康安,贺杨烊,肖正光.直流输电线路单端量快速保护方法, 2021年申请, 中国国家发明专利,. ZL202111546132.0 (已授权)
+[2]**杨亚宇**,童基健，武博涵.一种基于QPSO-LSTM网络的岸电系统负荷预测方法与系统, 2024年申请, 中国国家发明专利,. ZL202410735105.5(已实审)
 
-**Yayu Yang**, Nengling Tai, Wentao Huang, Lin Zhang, Xu Wei, Kangan Wang, Yangyang He, Zhengguang Xiao. A fast protection method for single-ended DC transmission lines, China National Invention Patents, ZL202111546132.0, 2021.  (Authorized)
+**Yayu Yang**, Jijian Tong, Bohan Wu. A shore power grid load forecasting method and system based on QPSO-LSTM network, China National Invention Patents, ZL202410735105.5, 2024. (Under review)
 
-[3]**杨亚宇**,邰能灵,范春菊,郑晓冬,黄文焘.基于特定频段电流的特高压直流线路保护方法, 2019-4-5, 中国国家发明专利, ZL201810115548.9(已授权)
+[3]**杨亚宇**, 武博涵，童基健.一种岸电行业四方四阶段动态经济博弈方法与系统, 2024年申请, 中国国家发明专利,. ZL202410735104.0(已实审)
 
-**Yayu Yang**, Nengling Tai, Chunju Fan, Xiaodong Zheng, Wentao Huang. A UHVDC line protection method based on current of specific frequency band, China National Invention Patents, ZL201810115548.9,2018.  (Authorized)
+**Yayu Yang**, Bohan Wu,Jijian Tong. A shore power industry four-party four-stage dynamic economic game method and system, China National Invention Patents, ZL202410735104.0, 2024. (Under review)
 
-[4]**杨亚宇**,邰能灵,范春菊,刘剑.基于边界能量的高压直流线路纵联保护方法, 2017-4-19, 中国国家发明专利, ZL201410620596.5 (已授权)
+[4]**杨亚宇**,邰能灵,黄文焘,张林,魏旭,王康安,贺杨烊,肖正光.直流输电线路单端量快速保护方法, 2024-2-9, 中国国家发明专利,. ZL202111546132.0 (已授权)
 
-**Yayu Yang**, Nengling Tai, Chunju Fan, Liu Jian. Boundary-energy-based Protection Scheme for HVDC Transmission Lines, China National Invention Patents, ZL201410620596.5,2014. (Authorized)
+**Yayu Yang**, Nengling Tai, Wentao Huang, Lin Zhang, Xu Wei, Kangan Wang, Yangyang He, Zhengguang Xiao. A fast protection method for single-ended DC transmission lines, China National Invention Patents, ZL202111546132.0, 2024.  (Authorized)
 
-[5]**杨亚宇**,邰能灵,郑晓冬,范春菊.基于故障直流分量的高压直流线路纵联保护方法, 2017-10-3, 中国国家发明专利, ZL201510744155.0 (已授权)
+[5]**杨亚宇**,邰能灵,范春菊,郑晓冬,黄文焘.基于特定频段电流的特高压直流线路保护方法, 2019-4-5, 中国国家发明专利, ZL201810115548.9(已授权)
 
-**Yayu Yang**, Nengling Tai, Xiaodong Zheng, Chunju Fan.  A Protection Scheme for HVDC Transmission Lines Based on Fault DC Component,China National Invention Patents,  ZL201510744155.0,2015. (Authorized)
+**Yayu Yang**, Nengling Tai, Chunju Fan, Xiaodong Zheng, Wentao Huang. A UHVDC line protection method based on current of specific frequency band, China National Invention Patents, ZL201810115548.9,2019.  (Authorized)
 
-[6]刘剑,邰能灵,范春菊,**杨亚宇**,郑晓冬.基于频带测量阻抗的特高压直流线路故障判别方法, 2018-7-27, 中国国家发明专利, ZL201610227884.3(已授权)
+[6]**杨亚宇**,邰能灵,范春菊,刘剑.基于边界能量的高压直流线路纵联保护方法, 2017-4-19, 中国国家发明专利, ZL201410620596.5 (已授权)
 
-Liu Jian, Nengling Tai, Chunju Fan, **Yayu Yang**, Xiaodong Zheng. A UHVDC line fault discrimination method based on band-measurement-impedance,China National Invention Patents, ZL201610227884.3,2016. (Authorized)
+**Yayu Yang**, Nengling Tai, Chunju Fan, Liu Jian. Boundary-energy-based Protection Scheme for HVDC Transmission Lines, China National Invention Patents, ZL201410620596.5,2017. (Authorized)
 
-[7]刘剑,邰能灵,范春菊,**杨亚宇**,陈实.电流相关性的柔性高压直流线路保护方法, 2018-9-21, 中国国家发明专利, ZL201610223498.7(已授权)
+[7]**杨亚宇**,邰能灵,郑晓冬,范春菊.基于故障直流分量的高压直流线路纵联保护方法, 2017-10-3, 中国国家发明专利, ZL201510744155.0 (已授权)
 
-Liu Jian, Nengling Tai, Chunju Fan, **Yayu Yang**, Shi Chen. A DC line protection method based on current correlation,China National Invention Patents, ZL201610223498.7,2016. (Authorized)
+**Yayu Yang**, Nengling Tai, Xiaodong Zheng, Chunju Fan.  A Protection Scheme for HVDC Transmission Lines Based on Fault DC Component,China National Invention Patents,  ZL201510744155.0,2017. (Authorized)
 
-[8]蔡彩霞,甘文洋,**杨亚宇**,郭燚,姚刚.一种用于无线中继通信系统的资源优化分配方法, 2022年申请, 中国国家发明专利,. ZL202210991693. X (已进入实质审查)
+[8]刘剑,邰能灵,范春菊,**杨亚宇**,郑晓冬.基于频带测量阻抗的特高压直流线路故障判别方法, 2018-7-27, 中国国家发明专利, ZL201610227884.3(已授权)
+
+Liu Jian, Nengling Tai, Chunju Fan, **Yayu Yang**, Xiaodong Zheng. A UHVDC line fault discrimination method based on band-measurement-impedance,China National Invention Patents, ZL201610227884.3,2018. (Authorized)
+
+[9]刘剑,邰能灵,范春菊,**杨亚宇**,陈实.电流相关性的柔性高压直流线路保护方法, 2018-9-21, 中国国家发明专利, ZL201610223498.7(已授权)
+
+Liu Jian, Nengling Tai, Chunju Fan, **Yayu Yang**, Shi Chen. A DC line protection method based on current correlation,China National Invention Patents, ZL201610223498.7,2018. (Authorized)
+
+[10]蔡彩霞,甘文洋,**杨亚宇**,郭燚,姚刚.一种用于无线中继通信系统的资源优化分配方法, 2022年申请, 中国国家发明专利,. ZL202210991693. X (已进入实质审查)
 
 Caixia Cai, Wenyang Gan, **Yayu Yang**, Yi Guo, Gang Yao.A resource optimization allocation method for wireless relay communication system,China National Invention Patents, Chinese national invention patent,ZL202210991693.X, 2022. (Under review)
 
