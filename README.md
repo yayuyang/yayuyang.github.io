@@ -92,7 +92,7 @@ Guest Editor of Special Issue "Islanding and Interconnected Microgrids: Dynamics
 远川研究所智库支持成员
 
 # <span id="jump4"><font color='#7093DB'>4.Reviewer</font></span>
-IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatics、IEEE Journal of Emerging and Selected Topics in Industrial Electronics、IET Generation, Transmission & Distribution、IET Renewable Power Generation、CSEE Journal of Power and Energy Systems、Journal of Modern Power Systems and Clean Energy、Protection and Control of Modern Power Systems、International Transactions on Electrical Energy Systems、IEEE Access、IETE Journal of Research、电工技术学报、上海交通大学学报等国内外期刊
+IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatics、IEEE Journal of Emerging and Selected Topics in Industrial Electronics、IET Generation, Transmission & Distribution、IET Renewable Power Generation、CSEE Journal of Power and Energy Systems、Journal of Modern Power Systems and Clean Energy、Protection and Control of Modern Power Systems、International Transactions on Electrical Energy Systems、IEEE Access、IETE Journal of Research、Electrical Engineering、电工技术学报、上海交通大学学报等国内外期刊
 
 # <span id="jump5"><font color='#7093DB'>5.Research Interests</font></span>
 电力系统自动化：电力系统继电保护、直流输配电系统、船舶电力系统等。
@@ -100,13 +100,15 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 证券投资分析。
 
 # <span id="jump6"><font color='#7093DB'>6.Projects</font></span>
-1）上海市“科技创新行动计划”启明星项目（扬帆专项），船舶电力系统保护领域，项目时间：2023.03 -2026.03，主持；
+1）国家自然科学基金青年科学基金，船舶直流线路保护领域，主持；
 
-2）南方电网广西电力公司管理创新项目，岸电电力系统领域,项目时间：2023.07 -2024.07，主持；
+2）上海市“科技创新行动计划”启明星项目（扬帆专项），船舶电力系统保护领域，项目时间：2023.03 -2026.03，主持；
 
-3）电力传输与功率变换控制教育部重点实验室开放课题，HVDC输电线路保护领域，项目时间：2022.10 -2024.02，主持；
+3）南方电网广西电力公司管理创新项目，岸电电力系统领域,项目时间：2023.07 -2024.07，主持；
 
-4）上海高校青年教师培养资助计划（重点推荐），电气工程学科建模仿真领域，项目时间：2023.01-2024.12，主持。
+4）电力传输与功率变换控制教育部重点实验室开放课题，HVDC输电线路保护领域，项目时间：2022.10 -2024.02，主持；
+
+5）上海高校青年教师培养资助计划（重点推荐），电气工程学科建模仿真领域，项目时间：2023.01-2024.12，主持。
 
 # <span id="jump7"><font color='#7093DB'>7.Publications</font></span>
 已发表学术论文30篇（第一作者和通信作者SCI/EI 16篇），已授权国家发明专利6项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，**数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载**。完成国内外顶级投资机构科技行业研究课题80个（保密不公开）。
