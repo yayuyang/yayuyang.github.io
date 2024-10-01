@@ -3,13 +3,15 @@
 
  <img src="PHOTO/YYY.jpg" width="400" />
 
-1991年，博士，硕士生导师/Research Scientist
+1991年，博士(PhD)
 
-电气工程专业，上海海事大学/The University of Tennessee, Knoxville
+Research Scientist, Department of Electrical Engineering and Computer Science, The University of Tennessee, Knoxville, USA
 
-中国上海浦东新区海港大道1550号/Min H. Kao Building,1520 Middle Drive, Knoxville TN, USA
+硕士生导师/讲师，电气工程专业，上海海事大学,中国
 
-E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
+Address: Min H. Kao Building,1520 Middle Drive, Knoxville TN, USA
+
+E-mail: yyyangsjtu@163.com;yyang117@utk.edu; yangyayu@shmtu.edu.cn
 
 # <font color='#7093DB'>Contents</font>
 
@@ -40,7 +42,9 @@ E-mail: yyyangsjtu@163.com；yangyayu@shmtu.edu.cn
 
 2021.05-至今	上海海事大学电气工程专业，讲师
 
-2018.06-2021.05      中泰证券研究所科技组，TMT行业证券分析师
+2018.06-2021.05      中泰证券研究所科技组，TMT行业证券分析师(所长：李迅雷老师)
+
+20xx.06-20xx.05      和君商学院(院长：王明夫先生)
 
 2013.09-2018.06      上海交通大学电子信息与电气工程学院电气工程系，博士（导师：邰能灵教授）
 
@@ -80,6 +84,10 @@ IEEE member（Power & Energy Society；Oceanic Engineering Society；Industrial 
 IET member
 
 中国电机工程学会会员
+
+Guest Editor of Special Issue "Protection and Control Technology for Mechanical Energy Storage Equipment", Machines(SCI)
+
+Guest Editor of Special Issue "Islanding and Interconnected Microgrids: Dynamics, Control and Protection", Electronics(SCI)
 
 远川研究所智库支持成员
 
