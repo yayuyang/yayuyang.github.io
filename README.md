@@ -246,11 +246,11 @@ Lin Zhang, NenglingTai, Jian Liu, **Yayu Yang**, Yanhong Wang Analysis of direct
 
 [6]**杨亚宇**,邰能灵,范春菊,刘剑.基于边界能量的高压直流线路纵联保护方法, 2017-4-19, 中国国家发明专利, ZL201410620596.5 (已授权)
 
-**Yayu Yang**, Nengling Tai, Chunju Fan, Liu Jian. Boundary-energy-based Protection Scheme for HVDC Transmission Lines, China National Invention Patents, ZL201410620596.5,2017. (Authorized)
+**Yayu Yang**, Nengling Tai, Chunju Fan, Liu Jian. Boundary-energy-based protection scheme for HVDC transmission lines, China National Invention Patents, ZL201410620596.5,2017. (Authorized)
 
 [7]**杨亚宇**,邰能灵,郑晓冬,范春菊.基于故障直流分量的高压直流线路纵联保护方法, 2017-10-3, 中国国家发明专利, ZL201510744155.0 (已授权)
 
-**Yayu Yang**, Nengling Tai, Xiaodong Zheng, Chunju Fan.  A Protection Scheme for HVDC Transmission Lines Based on Fault DC Component,China National Invention Patents,  ZL201510744155.0,2017. (Authorized)
+**Yayu Yang**, Nengling Tai, Xiaodong Zheng, Chunju Fan.  A protection scheme for HVDC transmission lines based on fault DC component,China National Invention Patents,  ZL201510744155.0,2017. (Authorized)
 
 [8]刘剑,邰能灵,范春菊,**杨亚宇**,郑晓冬.基于频带测量阻抗的特高压直流线路故障判别方法, 2018-7-27, 中国国家发明专利, ZL201610227884.3(已授权)
 
