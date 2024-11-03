@@ -221,7 +221,7 @@ Yuexian Liu, Tianyu Wang, **Yayu Yang**, Xiaoru Wang. Modeling and simulation of
 
 Lin Zhang, NenglingTai, Jian Liu, **Yayu Yang**, Yanhong Wang Analysis of directional pilot protection method for DC microgrid[J].  Electrical Measurement & Instrumentation, 2018,55(20):1-7.
 
-[2]陈金熠,冯宇虹,袁晨,宁连营,**杨亚宇**,郑晓冬. 分布式能源接入电网电能质量问题研究[C].2017智能电网信息化建设研讨会论文集,2017:336-339+348.
+<!-- [2]陈金熠,冯宇虹,袁晨,宁连营,**杨亚宇**,郑晓冬. 分布式能源接入电网电能质量问题研究[C].2017智能电网信息化建设研讨会论文集,2017:336-339+348.-->
 
 ### <font color='#7093DB'>7.A6-发明专利</font>
 [1]**杨亚宇**,金斌杰,黄文焘,方斯顿,余墨多,李俊锋.一种高性能船舶中压直流综合电力系统拓扑结构, 2023年申请, 中国国家发明专利,. ZL202311658366.3 (已实审)
