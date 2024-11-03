@@ -92,7 +92,7 @@ Guest Editor of Special Issue "Islanding and Interconnected Microgrids: Dynamics
 远川研究所智库支持成员
 
 # <span id="jump4"><font color='#7093DB'>4.Reviewer</font></span>
-IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatics、IEEE Journal of Emerging and Selected Topics in Industrial Electronics、IET Generation, Transmission & Distribution、IET Renewable Power Generation、CSEE Journal of Power and Energy Systems、Journal of Modern Power Systems and Clean Energy、Protection and Control of Modern Power Systems、International Transactions on Electrical Energy Systems、IEEE Access、IETE Journal of Research、Electrical Engineering、电工技术学报、上海交通大学学报等国内外期刊
+IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatics、IEEE Journal of Emerging and Selected Topics in Industrial Electronics、IET Generation, Transmission & Distribution、IET Renewable Power Generation、CSEE Journal of Power and Energy Systems、Journal of Modern Power Systems and Clean Energy、Protection and Control of Modern Power Systems、International Transactions on Electrical Energy Systems、IEEE Access、Energy Science & Engineering、IETE Journal of Research、Electrical Engineering、电工技术学报、上海交通大学学报等国内外期刊
 
 # <span id="jump5"><font color='#7093DB'>5.Research Interests</font></span>
 电力系统自动化：电力系统继电保护、直流输配电系统、船舶电力系统等。
@@ -111,7 +111,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 5）上海高校青年教师培养资助计划（重点推荐），电气工程学科建模仿真领域，项目时间：2023.01-2024.12，主持。
 
 # <span id="jump7"><font color='#7093DB'>7.Publications</font></span>
-已发表学术论文30篇（第一作者和通信作者SCI/EI 16篇），已授权国家发明专利6项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，**数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载**。完成国内外顶级投资机构科技行业研究课题80个（保密不公开）。
+已发表学术论文31篇（第一作者和通信作者SCI/EI 16篇），已授权国家发明专利6项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，**数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载**。完成国内外顶级投资机构科技行业研究课题80个（保密不公开）。
 
 ## <font color='#7093DB'>7.A-Academic Publications</font>
 ### <font color='#7093DB'>7.A1-SCI论文</font>
@@ -132,8 +132,6 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 <!-- 
 Collaborative planning of multiple energy storage systems in seaport integrated energy system
 Corresponding Author: Dr. Bo Li
-
-Parasitic Resistance Effect on Four Switch Buck–Boost Converter for Wide Range Voltage Control" to the IEEE Journal of Emerging and Selected Topics in Industrial Electronics as a Regular Submission submission.majianjun
 
 Analysis and Suppression of Common-mode Circulating Current in Hybrid DC-DC Converters with Bidirectional Asymmetric Power Flow (TPEL-Reg-2024-08-2407) has been submitted by to the IEEE Transactions on Power Electronics wangkangan
 
@@ -179,11 +177,13 @@ Refining the Notional MVDC Shipboard Power System: Improved Design and Simulatio
 **Jianjun Ma**, Miao Zhu, Yayu Yang, Zhaoxin Du. LPV modeling and wide range voltage regulation of multimode buck-boost converter[J]. Proceedings of the CSEE, 2023,43(21): 8423-8434.
 
 ### <font color='#7093DB'>7.A3-其他EI期刊论文</font>
-[1]楼佳辉,黄文焘,杨欢红,余墨多,**杨亚宇**.港口电动岸桥运行轨迹规划及其路径功率优化控制[J/OL].上海交通大学学报:1-21[2024-06-30].DOI:10.16183/j.cnki.jsjtu.2024.097.
+[1]Jianjun Ma, Miao Zhu, Ning Gao, **Yayu Yang**, Zhang Cheng. Parasitic Resistance Effect on Four Switch Buck–Boost Converter for Wide Range Voltage Control[J]. IEEE Journal of Emerging and Selected Topics in Industrial Electronics, 2024.
+
+[2]楼佳辉,黄文焘,杨欢红,余墨多,**杨亚宇**.港口电动岸桥运行轨迹规划及其路径功率优化控制[J/OL].上海交通大学学报:1-21[2024-06-30].DOI:10.16183/j.cnki.jsjtu.2024.097.
 
 Jiahui Lou, Wentao Huang, Huanhong Yang, Moduo Yu, **Yayu Yang**. Operation trajectory planning and power optimization control of electric quay crane in port[J]. Journal of Shanghai Jiao Tong University, 2024, DOI:10.16183/j.cnki.jsjtu.2024.097.
 
-[2]刘月贤,王天钰,**杨亚宇**,王晓茹.电动汽车充放电系统建模与仿真[J].电力系统保护与控制,2014,42(13):70-76.
+[3]刘月贤,王天钰,**杨亚宇**,王晓茹.电动汽车充放电系统建模与仿真[J].电力系统保护与控制,2014,42(13):70-76.
 
 Yuexian Liu, Tianyu Wang, **Yayu Yang**, Xiaoru Wang. Modeling and simulation of electric vehicles’ charge and discharge system [J]. Power System Protection and Control, 2014, 42(13): 70-76.
 
