@@ -133,6 +133,10 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 Collaborative planning of multiple energy storage systems in seaport integrated energy system
 Corresponding Author: Dr. Bo Li
 
+weixu dianwang
+
+weixu RPG
+
 Analysis and Suppression of Common-mode Circulating Current in Hybrid DC-DC Converters with Bidirectional Asymmetric Power Flow (TPEL-Reg-2024-08-2407) has been submitted by to the IEEE Transactions on Power Electronics wangkangan
 
 Technical principles for shore power system planning；Hao Ding 1 , Yayu Yang 1,2,* , Xiaoyan Xu 1 , Weixiang Zhou 1 and Caixia Cai 1会议
