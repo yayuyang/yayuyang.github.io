@@ -254,7 +254,7 @@ Lin Zhang, NenglingTai, Jian Liu, **Yayu Yang**, Yanhong Wang Analysis of direct
 
 [8]刘剑,邰能灵,范春菊,**杨亚宇**,郑晓冬.基于频带测量阻抗的特高压直流线路故障判别方法, 2018-7-27, 中国国家发明专利, ZL201610227884.3(已授权)
 
-Liu Jian, Nengling Tai, Chunju Fan, **Yayu Yang**, Xiaodong Zheng. A UHVDC line fault discrimination method based on measured impedance witnin specific frequency band,China National Invention Patents, ZL201610227884.3,2018. (Authorized)
+Liu Jian, Nengling Tai, Chunju Fan, **Yayu Yang**, Xiaodong Zheng. A UHVDC line fault discrimination method based on measured impedance within specific frequency band,China National Invention Patents, ZL201610227884.3,2018. (Authorized)
 
 [9]刘剑,邰能灵,范春菊,**杨亚宇**,陈实.电流相关性的柔性高压直流线路保护方法, 2018-9-21, 中国国家发明专利, ZL201610223498.7(已授权)
 
