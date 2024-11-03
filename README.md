@@ -242,7 +242,7 @@ Lin Zhang, NenglingTai, Jian Liu, **Yayu Yang**, Yanhong Wang Analysis of direct
 
 [5]**杨亚宇**,邰能灵,范春菊,郑晓冬,黄文焘.基于特定频段电流的特高压直流线路保护方法, 2019-4-5, 中国国家发明专利, ZL201810115548.9(已授权)
 
-**Yayu Yang**, Nengling Tai, Chunju Fan, Xiaodong Zheng, Wentao Huang. A UHVDC line protection method based on current of specific frequency band, China National Invention Patents, ZL201810115548.9,2019.  (Authorized)
+**Yayu Yang**, Nengling Tai, Chunju Fan, Xiaodong Zheng, Wentao Huang. A UHVDC line protection method based on specific frequency band current, China National Invention Patents, ZL201810115548.9,2019.  (Authorized)
 
 [6]**杨亚宇**,邰能灵,范春菊,刘剑.基于边界能量的高压直流线路纵联保护方法, 2017-4-19, 中国国家发明专利, ZL201410620596.5 (已授权)
 
@@ -254,11 +254,11 @@ Lin Zhang, NenglingTai, Jian Liu, **Yayu Yang**, Yanhong Wang Analysis of direct
 
 [8]刘剑,邰能灵,范春菊,**杨亚宇**,郑晓冬.基于频带测量阻抗的特高压直流线路故障判别方法, 2018-7-27, 中国国家发明专利, ZL201610227884.3(已授权)
 
-Liu Jian, Nengling Tai, Chunju Fan, **Yayu Yang**, Xiaodong Zheng. A UHVDC line fault discrimination method based on band-measurement-impedance,China National Invention Patents, ZL201610227884.3,2018. (Authorized)
+Liu Jian, Nengling Tai, Chunju Fan, **Yayu Yang**, Xiaodong Zheng. A UHVDC line fault discrimination method based on measured impedance witnin specific frequency band,China National Invention Patents, ZL201610227884.3,2018. (Authorized)
 
 [9]刘剑,邰能灵,范春菊,**杨亚宇**,陈实.电流相关性的柔性高压直流线路保护方法, 2018-9-21, 中国国家发明专利, ZL201610223498.7(已授权)
 
-Liu Jian, Nengling Tai, Chunju Fan, **Yayu Yang**, Shi Chen. A DC line protection method based on current correlation,China National Invention Patents, ZL201610223498.7,2018. (Authorized)
+Liu Jian, Nengling Tai, Chunju Fan, **Yayu Yang**, Shi Chen. A DC line protection method for VSC-HVDC system based on current correlation,China National Invention Patents, ZL201610223498.7,2018. (Authorized)
 
 [10]蔡彩霞,甘文洋,**杨亚宇**,郭燚,姚刚.一种用于无线中继通信系统的资源优化分配方法, 2022年申请, 中国国家发明专利,. ZL202210991693. X (已进入实质审查)
 
