@@ -121,7 +121,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 
 [3]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Liu Jian, Miao Chen. A particular AC component protection scheme for bipolar HVDC transmission lines[J]. IEEJ Transactions on Electrical and Electronic Engineering , 2018, 13(5): 732-741.
 
-[4]Shu Ye, Feng Zhang, Fei Gao, Zhongzheng Zhou, **Yayu Yang**. Fault diagnosis for multilevel converters based on an Affine-Invariant riemannian metric autoencoder[J]. IEEE Transactions on Industrial Informatics, 2022, 19(3): 2619-2628.
+[4]Shu Ye, Feng Zhang, Fei Gao, Zhongzheng Zhou, **Yayu Yang**. Fault diagnosis for multilevel converters based on an affine-invariant riemannian metric autoencoder[J]. IEEE Transactions on Industrial Informatics, 2022, 19(3): 2619-2628.
 
 [5]Baichuan Teng, Jianjun Ma, Miao Zhu, **Yayu Yang**, Xu Cai. Fault‐tolerant DC‐DC converter interconnected with energy storage device for bipolar distribution system: Working modes and optimizing control strategy[J]. IET Generation, Transmission & Distribution,2023, 17(19): 4258-4276..
 
@@ -181,7 +181,7 @@ Refining the Notional MVDC Shipboard Power System: Improved Design and Simulatio
 **Jianjun Ma**, Miao Zhu, Yayu Yang, Zhaoxin Du. LPV modeling and wide range voltage regulation of multimode buck-boost converter[J]. Proceedings of the CSEE, 2023,43(21): 8423-8434.
 
 ### <font color='#7093DB'>7.A3-其他EI期刊论文</font>
-[1]Jianjun Ma, Miao Zhu, Ning Gao, **Yayu Yang**, Zhang Cheng. Parasitic Resistance Effect on Four Switch Buck–Boost Converter for Wide Range Voltage Control[J]. IEEE Journal of Emerging and Selected Topics in Industrial Electronics, 2024.
+[1]Jianjun Ma, Miao Zhu, Ning Gao, **Yayu Yang**, Zhang Cheng. Parasitic resistance effect on four switch buck–boost converter for wide range voltage control[J]. IEEE Journal of Emerging and Selected Topics in Industrial Electronics, 2024.
 
 [2]楼佳辉,黄文焘,杨欢红,余墨多,**杨亚宇**.港口电动岸桥运行轨迹规划及其路径功率优化控制[J/OL].上海交通大学学报:1-21[2024-06-30].DOI:10.16183/j.cnki.jsjtu.2024.097.
 
@@ -198,15 +198,15 @@ Yuexian Liu, Tianyu Wang, **Yayu Yang**, Xiaoru Wang. Modeling and simulation of
 
 [3]**Yayu Yang**, Xin Jiang, Moduo Yu，Shu Ye, Caixia Cai. A review of key technologies of shore power systems[C]. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (**Oral**，EI收录)
 
-[4]Jijian Tong, **Yayu Yang(Corresponding author)**，Xiaoyan. Xu, Gengwu Zhang, Feng Yuan, Guang Xiang, Kangan Wang. Shore Power System Load Forecasting Model Based on QPSO-LSTM Network[C]. 2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (Poster，EI收录)
+[4]Jijian Tong, **Yayu Yang(Corresponding author)**，Xiaoyan. Xu, Gengwu Zhang, Feng Yuan, Guang Xiang, Kangan Wang. Shore power system load forecasting model based on QPSO-LSTM network[C]. 2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (Poster，EI收录)
 
-[5]Bohan Wu,**Yayu Yang(Corresponding author)**,Xiaoyan Xu,Kangan Wang.Advancing Shore Power Technology for Sustainable Maritime Transport and Emission Reduction: A Global Review of History, Policies, and Standards[C]. 2024 9th International Conference on Information Science, Computer Technology and Transportation(ISCTT 2024), June. 2024. (Poster，EI收录)
+[5]Bohan Wu,**Yayu Yang(Corresponding author)**,Xiaoyan Xu,Kangan Wang.Advancing Shore power technology for sustainable maritime transport and emission reduction: A global review of history, policies, and standards[C]. 2024 9th International Conference on Information Science, Computer Technology and Transportation(ISCTT 2024), June. 2024. (Poster，EI收录)
 
 [6]Yu Guan，**Yayu Yang(Corresponding author)**，Xiaoyan Xu，Jianjun Ma，Yu Liu.Research on shore DC Grids considering increasing penetration of renewables[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
 
 [7]Shuangnan Gu, **Yayu Yang(Corresponding author)**, Wenchao Shi, Jijian Tong. Shore power system load forecasting model based on IDBO algorithm and PCA-BiLSTM network[C].2023 2nd International Conference on Smart Energy and Electrical Engineering(SEEE 2023), Dec. 2023. (Poster，EI收录)
 
-[8]Xinchen Zou, Yuhao Xie, Zhiqiang Duan,**Yayu Yang**,Yu Liu. Physics-Informed Data-Driven Control Strategy Classification for Inverter Based Resources During Transients[C]．IEEE Power & Energy Society General Meeting, Seattle, USA, Jul. 2024. (**Oral**，EI收录)
+[8]Xinchen Zou, Yuhao Xie, Zhiqiang Duan,**Yayu Yang**,Yu Liu. Physics-Informed data-driven control strategy classification for inverter based resources during transients[C]．IEEE Power & Energy Society General Meeting, Seattle, USA, Jul. 2024. (**Oral**，EI收录)
 
 [9]Junchen Wu, Kangan Wang, **Yayu Yang**, Weimin Wu. A synchronous rectification method of CLLC resonant converter based on inner phase-shift modulation strategy under light load conditions[C]．2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (EI收录)
 
