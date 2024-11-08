@@ -260,9 +260,9 @@ Liu Jian, Nengling Tai, Chunju Fan, **Yayu Yang**, Xiaodong Zheng. A UHVDC line 
 
 Liu Jian, Nengling Tai, Chunju Fan, **Yayu Yang**, Shi Chen. A DC line protection method for VSC-HVDC system based on current correlation,China National Invention Patents, ZL201610223498.7,2018. (Authorized)
 
-[10]蔡彩霞,甘文洋,**杨亚宇**,郭燚,姚刚.一种用于无线中继通信系统的资源优化分配方法, 2022年申请, 中国国家发明专利,. ZL202210991693. X (已进入实质审查)
+[10]蔡彩霞,甘文洋,**杨亚宇**,郭燚,姚刚.一种用于无线中继通信系统的资源优化分配方法, 2024-9-6, 中国国家发明专利,. ZL202210991693. X(已授权)
 
-Caixia Cai, Wenyang Gan, **Yayu Yang**, Yi Guo, Gang Yao.A resource optimization allocation method for wireless relay communication system,China National Invention Patents, Chinese national invention patent,ZL202210991693.X, 2022. (Under review)
+Caixia Cai, Wenyang Gan, **Yayu Yang**, Yi Guo, Gang Yao.A resource optimization allocation method for wireless relay communication system,China National Invention Patents, Chinese national invention patent,ZL202210991693.X, 2024. (Authorized)
 
 ## <font color='#7093DB'>7.B-Investment Consulting and Securities Research Reports</font>
 ### <font color='#7093DB'>7.B1-科技行业深度研究23篇</font>
