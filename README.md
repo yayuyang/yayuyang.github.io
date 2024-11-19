@@ -73,6 +73,14 @@ E-mail: yyyangsjtu@163.com;yyang117@utk.edu; yangyayu@shmtu.edu.cn
 
 Session Chair(Session Invited 2.1_Control, Operation, and Protection of Renewable Energy-Based Systems), 2023 IET International Conference on Renewable Power Generation (RPG)
 
+Workshop chair(Workshop 11_Advanced Online Monitoring and Fault Diagnosis of Power Eguipment), 2025 The 2nd International conference on Smart Grids and Power Svstems (ICSGPS)
+
+Technical Committee member of 2024 8th International Conference on Power and Energy Engineering (ICPEE 2024) 
+
+Guest Editor of Special Issue "Protection and Control Technology for Mechanical Energy Storage Equipment", Machines(SCI),2024
+
+Guest Editor of Special Issue "Islanding and Interconnected Microgrids: Dynamics, Control and Protection", Electronics(SCI),2024
+
 中国证券业协会证券投资咨询(分析师)
 
 中国电工技术学会高级会员
@@ -85,9 +93,7 @@ IET member
 
 中国电机工程学会会员
 
-Guest Editor of Special Issue "Protection and Control Technology for Mechanical Energy Storage Equipment", Machines(SCI)
 
-Guest Editor of Special Issue "Islanding and Interconnected Microgrids: Dynamics, Control and Protection", Electronics(SCI)
 
 远川研究所智库支持成员
 
