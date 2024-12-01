@@ -123,7 +123,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Industrial Informatic
 ### <font color='#7093DB'>7.A1-SCI论文</font>
 [1]**Yayu Yang**, Nengling Tai, Yu Liu, Xiaodong Zheng, Jianjun Ma, Jun Yan, Shu Ye. Calculated DC resistance-based pilot protection scheme for bipolar HVDC transmission lines[J]. IET Generation, Transmission & Distribution, 2022, 16(20): 4027-4039. 
 
-[2]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Lian Yang, Shi Chen. Resonance frequency-based protection scheme for UHVDC transmission lines[J]. IET Generation, Transmission & Distribution, 2018, 12(2): 318-327. 
+[2]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Lian Yang, Shi Chen. Resonance frequency‐based protection scheme for ultra‐high‐voltage direct‐current transmission lines[J]. IET Generation, Transmission & Distribution, 2018, 12(2): 318-327. 
 
 [3]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Liu Jian, Miao Chen. A particular AC component protection scheme for bipolar HVDC transmission lines[J]. IEEJ Transactions on Electrical and Electronic Engineering , 2018, 13(5): 732-741.
 
