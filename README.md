@@ -73,7 +73,7 @@ E-mail: yyyangsjtu@163.com;yyang117@utk.edu; yangyayu@shmtu.edu.cn
 
 Session Chair(Session Invited 2.1_Control, Operation, and Protection of Renewable Energy-Based Systems), 2023 IET International Conference on Renewable Power Generation (RPG)
 
-Workshop chair(Workshop 11_Advanced Online Monitoring and Fault Diagnosis of Power Eguipment), 2025 The 2nd International conference on Smart Grids and Power Svstems (ICSGPS)
+Workshop chair(Workshop 11_Advanced Online Monitoring and Fault Diagnosis of Power Equipment), 2025 The 2nd International conference on Smart Grids and Power Systems (ICSGPS)
 
 Technical Committee member of 2024 8th International Conference on Power and Energy Engineering (ICPEE 2024) 
 
