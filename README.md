@@ -75,6 +75,8 @@ Session Chair(Session Invited 2.1_Control, Operation, and Protection of Renewabl
 
 Workshop chair(Workshop 11_Advanced Online Monitoring and Fault Diagnosis of Power Equipment), 2025 The 2nd International conference on Smart Grids and Power Systems (ICSGPS)
 
+Technical Committee Member of 2025 IEEE International Symposium on the Application of Artificial Intelligence in Electrical Engineering (AAIEE 2025)
+
 Technical Committee member of 2024 8th International Conference on Power and Energy Engineering (ICPEE 2024) 
 
 Guest Editor of Special Issue "Protection and Control Technology for Mechanical Energy Storage Equipment", Machines(SCI),2024
