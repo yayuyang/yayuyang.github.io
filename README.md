@@ -77,6 +77,8 @@ Workshop chair(Workshop 11_Advanced Online Monitoring and Fault Diagnosis of Pow
 
 Technical Committee Member of 2025 IEEE International Symposium on the Application of Artificial Intelligence in Electrical Engineering (AAIEE 2025)
 
+Program Committee Member of the 2025 4th International Conference on Frontiers of Energy and Environment Engineering (CFEEE 2025)
+
 Technical Committee member of 2024 8th International Conference on Power and Energy Engineering (ICPEE 2024) 
 
 Guest Editor of Special Issue "Protection and Control Technology for Mechanical Energy Storage Equipment", Machines(SCI),2024
