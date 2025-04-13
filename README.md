@@ -129,19 +129,28 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Smart Grid、IEEE Tra
 
 [2]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Lian Yang, Shi Chen. Resonance frequency‐based protection scheme for ultra‐high‐voltage direct‐current transmission lines[J]. IET Generation, Transmission & Distribution, 2018, 12(2): 318-327. 
 
-[3]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Liu Jian, Miao Chen. A particular AC component protection scheme for bipolar HVDC transmission lines[J]. IEEJ Transactions on Electrical and Electronic Engineering , 2018, 13(5): 732-741.
+[3]**Yayu Yang**, Yan Wen, hengfa Zhang, Yuqing Dong, Chong Shen, Yilu Liu. Towards 100% Renewable Power Grids: A Review[J]. IEEE Access, 2025.( Early Access )
 
-[4]Shu Ye, Feng Zhang, Fei Gao, Zhongzheng Zhou, **Yayu Yang**. Fault diagnosis for multilevel converters based on an affine-invariant riemannian metric autoencoder[J]. IEEE Transactions on Industrial Informatics, 2022, 19(3): 2619-2628.
+[4]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Liu Jian, Miao Chen. A particular AC component protection scheme for bipolar HVDC transmission lines[J]. IEEJ Transactions on Electrical and Electronic Engineering , 2018, 13(5): 732-741.
 
-[5]Baichuan Teng, Jianjun Ma, Miao Zhu, **Yayu Yang**, Xu Cai. Fault‐tolerant DC‐DC converter interconnected with energy storage device for bipolar distribution system: Working modes and optimizing control strategy[J]. IET Generation, Transmission & Distribution,2023, 17(19): 4258-4276..
+[5]Shu Ye, Feng Zhang, Fei Gao, Zhongzheng Zhou, **Yayu Yang**. Fault diagnosis for multilevel converters based on an affine-invariant riemannian metric autoencoder[J]. IEEE Transactions on Industrial Informatics, 2022, 19(3): 2619-2628.
 
-[6]Jian Liu, Negnling Tai, Chunju Fan, **Yayu Yang**. Transient measured impedance-based protection scheme for DC line faults in ultra high-voltage direct-current system[J]. IET Generation, Transmission & Distribution, 2016, 10(14): 3597-3609.
+[6]Baichuan Teng, Jianjun Ma, Miao Zhu, **Yayu Yang**, Xu Cai. Fault‐tolerant DC‐DC converter interconnected with energy storage device for bipolar distribution system: Working modes and optimizing control strategy[J]. IET Generation, Transmission & Distribution,2023, 17(19): 4258-4276..
 
-[7]Caixia Cai, Fuli Zhong, Han Hai, Mingzhi Chen, Wenyang Gan, Bing Sun, **Yayu Yang**. Energy-efficient two-way full-duplex relay transmission strategy with SWIPT and direct links[J]. EURASIP Journal on Wireless Communications and Networking, 2024, 2024(1): 17.
+[7]Jian Liu, Negnling Tai, Chunju Fan, **Yayu Yang**. Transient measured impedance-based protection scheme for DC line faults in ultra high-voltage direct-current system[J]. IET Generation, Transmission & Distribution, 2016, 10(14): 3597-3609.
+
+[8]Caixia Cai, Fuli Zhong, Han Hai, Mingzhi Chen, Wenyang Gan, Bing Sun, **Yayu Yang**. Energy-efficient two-way full-duplex relay transmission strategy with SWIPT and direct links[J]. EURASIP Journal on Wireless Communications and Networking, 2024, 2024(1): 17.
 
 <!-- 
-Collaborative planning of multiple energy storage systems in seaport integrated energy system
-Corresponding Author: Dr. Bo Li
+黎博录用Collaborative planning of multiple energy storage systems in seaport integrated energy system ；Yiyi Zhang; Haifeng Gao; Bo Li; Yayu Yang; Xianfu Lin; Meng Cheng； ASCE's Journal of Energy Engineering
+
+丁浩-录用了Technical principles for shore power system planning；Hao Ding 1 , Yayu Yang 1,2,* , Xiaoyan Xu 1 , Weixiang Zhou 1 and Caixia Cai 1会议
+
+王振兴ecce-录用了-Fault Identification Scheme for HVDC Systems Based on Single-Sided Trigger Angle Signal and CWT-CNN
+
+丁浩-RSFCL-录用了-RSFCL-based Fault Current Limiting and Protection Method for Shipboard DC Microgrids
+
+录用-Swarm Intelligence Based Optimal Design of Local Volt/Var Control Function for Distributed Energy Resources；Zhengfa Zhang†, Yuqing Dong†, Jiaojiao Dong†, Jin Dong‡, Boming Liu‡, Yayu Yang†, Teja Kuruganti§, Yilu Liu†会议
 
 weixu dianwang
 
@@ -149,15 +158,23 @@ weixu RPG
 
 Analysis and Suppression of Common-mode Circulating Current in Hybrid DC-DC Converters with Bidirectional Asymmetric Power Flow (TPEL-Reg-2024-08-2407) has been submitted by to the IEEE Transactions on Power Electronics wangkangan
 
-Technical principles for shore power system planning；Hao Ding 1 , Yayu Yang 1,2,* , Xiaoyan Xu 1 , Weixiang Zhou 1 and Caixia Cai 1会议
+A Parameter Design Method of the Hybrid Modulation-based CLLC Converters for Extended Soft-switching Range；IEEE Open Journal of Power Electronics (OJPEL)  wangkangan
 
-Swarm Intelligence Based Optimal Design of Local Volt/Var Control Function for Distributed Energy Resources
-Zhengfa Zhang†, Yuqing Dong†, Jiaojiao Dong†, Jin Dong‡, Boming Liu‡, Yayu Yang†, Teja Kuruganti§, Yilu Liu†会议
-
-Towards 100% Renewable Power Grids: A Review
+Title: "In-situ construction of multi-heterostructure ZnO/ZnTiO3/TiO2@Ti3C2Tx for room-temperature trace NH3 sensing" Junfeng Li including Junfeng Li; Jiyuan Zheng; Yayu Yang; Xiaojie Zhang 
 
 Refining the Notional MVDC Shipboard Power System: Improved Design and Simulation Analysis
 
+裴志杰故障重启
+
+管喻kcl
+
+金斌杰阻抗保护
+
+徐晋-sci
+
+周卫祥-trans
+
+裴志杰-tia会议Bohan Wu,**Yayu Yang(Corresponding author)**,Xiaoyan Xu,Kangan Wang.Advancing Shore power technology for sustainable maritime transport and emission reduction: A global review of history, policies, and standards[C].
 -->
 
 
@@ -210,21 +227,19 @@ Yuexian Liu, Tianyu Wang, **Yayu Yang**, Xiaoru Wang. Modeling and simulation of
 
 [4]Jijian Tong, **Yayu Yang(Corresponding author)**，Xiaoyan. Xu, Gengwu Zhang, Feng Yuan, Guang Xiang, Kangan Wang. Shore power system load forecasting model based on QPSO-LSTM network[C]. 2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (Poster，EI收录)
 
-[5]Bohan Wu,**Yayu Yang(Corresponding author)**,Xiaoyan Xu,Kangan Wang.Advancing Shore power technology for sustainable maritime transport and emission reduction: A global review of history, policies, and standards[C]. 2024 9th International Conference on Information Science, Computer Technology and Transportation(ISCTT 2024), June. 2024. (Poster，EI收录)
+[5]Yu Guan，**Yayu Yang(Corresponding author)**，Xiaoyan Xu，Jianjun Ma，Yu Liu.Research on shore DC Grids considering increasing penetration of renewables[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
 
-[6]Yu Guan，**Yayu Yang(Corresponding author)**，Xiaoyan Xu，Jianjun Ma，Yu Liu.Research on shore DC Grids considering increasing penetration of renewables[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
+[6]Shuangnan Gu, **Yayu Yang(Corresponding author)**, Wenchao Shi, Jijian Tong. Shore power system load forecasting model based on IDBO algorithm and PCA-BiLSTM network[C].2023 2nd International Conference on Smart Energy and Electrical Engineering(SEEE 2023), Dec. 2023. (Poster，EI收录)
 
-[7]Shuangnan Gu, **Yayu Yang(Corresponding author)**, Wenchao Shi, Jijian Tong. Shore power system load forecasting model based on IDBO algorithm and PCA-BiLSTM network[C].2023 2nd International Conference on Smart Energy and Electrical Engineering(SEEE 2023), Dec. 2023. (Poster，EI收录)
+[7]Xinchen Zou, Yuhao Xie, Zhiqiang Duan,**Yayu Yang**,Yu Liu. Physics-Informed data-driven control strategy classification for inverter based resources during transients[C]．IEEE Power & Energy Society General Meeting, Seattle, USA, Jul. 2024. (**Oral**，EI收录)
 
-[8]Xinchen Zou, Yuhao Xie, Zhiqiang Duan,**Yayu Yang**,Yu Liu. Physics-Informed data-driven control strategy classification for inverter based resources during transients[C]．IEEE Power & Energy Society General Meeting, Seattle, USA, Jul. 2024. (**Oral**，EI收录)
+[8]Junchen Wu, Kangan Wang, **Yayu Yang**, Weimin Wu. A synchronous rectification method of CLLC resonant converter based on inner phase-shift modulation strategy under light load conditions[C]．2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (EI收录)
 
-[9]Junchen Wu, Kangan Wang, **Yayu Yang**, Weimin Wu. A synchronous rectification method of CLLC resonant converter based on inner phase-shift modulation strategy under light load conditions[C]．2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (EI收录)
+[9]Chenjie Fan, Kangan Wang, Siyu Wu, **Yayu Yang**, Jiale Li, Weimin Wu. Analysis of switching characterization and power loss of bidirectional asymmetrical power flow DC/DC converters[C]．2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (EI收录)
 
-[10]Chenjie Fan, Kangan Wang, Siyu Wu, **Yayu Yang**, Jiale Li, Weimin Wu. Analysis of switching characterization and power loss of bidirectional asymmetrical power flow DC/DC converters[C]．2024 IEEE 10th International Power Electronics and Motion Control Conference (IPEMC-ECCE Asia), May. 2024. (EI收录)
+[10]Zhiquan Liu, Yu Liu, Dayou Lu, **Yayu Yang**, Rui Fan.Transmission line differential protection based on numerical solution of partial differential equations[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
 
-[11]Zhiquan Liu, Yu Liu, Dayou Lu, **Yayu Yang**, Rui Fan.Transmission line differential protection based on numerical solution of partial differential equations[C].IEEE International Conference on Advanced Power System Automation and Protection (APAP), Oct. 2023. (**Oral**，EI收录)
-
-[12]Jiahui Lou, Wentao Huang,**Yayu Yang**, Moduo Yu, Yun Wang,Wenbin Huang. Energy management of port electric power system under the trajectory optimization of electric quay cranes[C]. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (Poster，EI收录)
+[11]Jiahui Lou, Wentao Huang,**Yayu Yang**, Moduo Yu, Yun Wang,Wenbin Huang. Energy management of port electric power system under the trajectory optimization of electric quay cranes[C]. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (Poster，EI收录)
 
 ### <font color='#7093DB'>7.A5-其他论文</font>
 [1]张林,邰能灵,刘剑,**杨亚宇**,王彦虹.直流微电网方向纵联保护方法研究[J].电测与仪表,2018,55(20):1-7. (中文核心期刊)
