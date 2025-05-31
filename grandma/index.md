@@ -1,15 +1,15 @@
 ---
 layout: default
-title: 我的奶奶
+title:  My Grandma
 permalink: /grandma/
 ---
 
-# 纪念我的奶奶
+# In Memory of My Grandmother: Shunlan Shi
 
-欢迎来到我的奶奶纪念专区。
+Welcome to my grandmother’s memorial page.
 
-- [追忆篇一：追忆我的奶奶](./article1)
-- [追忆篇二：In the Dream of You](./article2)
-- [追忆篇三：In Loving Memory of My Grandmother](./article3)
+- [Article1：追忆我的奶奶](./article1)
+- [Article2：In the Dream of You](./article2)
+- [Article3：In Loving Memory of My Grandmother(English version of article1)](./article3)
 
 Thanks for your attention.
