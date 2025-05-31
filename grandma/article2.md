@@ -1,11 +1,10 @@
 ---
 layout: default
-title: In Loving Memory of My Grandmother
+title: In the Dream of You
 permalink: /grandma/article2
 ---
 
-# In Loving Memory of My Grandmother  
-**追忆我的奶奶**  
+# In the Dream of You  
 
 In dreams, you linger, so vividly near,  
 A whisper of warmth in the silence.  
