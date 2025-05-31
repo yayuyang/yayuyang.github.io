@@ -1,10 +1,10 @@
 ---
 layout: default
-title: In the Dream of You
+title: Article2：In the Dream of You
 permalink: /grandma/article2
 ---
 
-# In the Dream of You  
+# Article2：In the Dream of You
 
 In dreams, you linger, so vividly near,  
 A whisper of warmth in the silence.  
