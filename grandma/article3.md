@@ -58,6 +58,6 @@ We always knew we were each other’s favorite person—and even Grandpa, who ha
 
 ## Meeting Her Was the Greatest Gift of My Life
 
-*Written on June 3, 2023, in USA*  
+*Written on June 3, 2023, in Shanghai*  
 *Translated on May 31, 2025, in USA*  
 *By Andy*
