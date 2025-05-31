@@ -54,3 +54,8 @@ Grandma’s love was so fierce and unwavering that it felt like the highest expr
 We always knew we were each other’s favorite person—and even Grandpa, who had to watch this from the sidelines for 32 years, knew it too.  
 
 Meeting her was the greatest gift of my life.
+
+
+*Written on June 3, 2023, in USA*  
+*Translated on May 31, 2025, in USA*  
+*By Andy*
