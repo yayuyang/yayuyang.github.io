@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Article 3: In Loving Memory of My Grandmother (English Version of Article 1)
+title: Article3: In Loving Memory of My Grandmother (English Version of Article 1)
 permalink: /grandma/article3
 ---
 
-# Article 3: In Loving Memory of My Grandmother (English Version of Article 1)
+# Article3: In Loving Memory of My Grandmother (English Version of Article 1)
 
 Shi Shunlan, female, born in 1942, passed away peacefully around midnight on May 27, 2023.
 
