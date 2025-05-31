@@ -7,7 +7,7 @@ permalink: /Introduction/
 # <font color='#7093DB'>杨亚宇（Yayu Yang)</font>
 
 
- <img src="PHOTO/YYY.jpg" width="400" />
+ <img src="YYYphoto.jpg" width="400" />
 
 1991年，博士(PhD)
 
