@@ -147,7 +147,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Smart Grid、IEEE Tra
 
 [8]Caixia Cai, Fuli Zhong, Han Hai, Mingzhi Chen, Wenyang Gan, Bing Sun, **Yayu Yang**. Energy-efficient two-way full-duplex relay transmission strategy with SWIPT and direct links[J]. EURASIP Journal on Wireless Communications and Networking, 2024, 2024(1): 17.
 
-<!-- 
+<!-- 19个等待，9个只是co
 黎博录用Collaborative planning of multiple energy storage systems in seaport integrated energy system ；Yiyi Zhang; Haifeng Gao; Bo Li; Yayu Yang; Xianfu Lin; Meng Cheng； ASCE's Journal of Energy Engineering
 
 王振兴ecce-录用了-Fault Identification Scheme for HVDC Systems Based on Single-Sided Trigger Angle Signal and CWT-CNN
@@ -155,6 +155,12 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Smart Grid、IEEE Tra
 丁浩-RSFCL-录用了-RSFCL-based Fault Current Limiting and Protection Method for Shipboard DC Microgrids
 
 裴志杰-tia会议
+
+王振兴ai
+
+裴志杰tia期刊
+
+IECON ，徐克,wang kangan
 
 weixu dianwang
 
