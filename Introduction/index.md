@@ -231,7 +231,7 @@ Yuexian Liu, Tianyu Wang, **Yayu Yang**, Xiaoru Wang. Modeling and simulation of
 ### <font color='#7093DB'>7.A4-国际会议论文</font>
 [1]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Xiaodong Zheng, Jian Liu, Bin Lv. Novel transient current-based protection scheme for DC line faults in UHVDC system[C]．IEEE Power & Energy Society General Meeting, CHICAGO, USA, Jul. 2017. (**Oral**，EI收录)
 
-[2]**Yayu Yang**,Binjie Jin，Yu Liu，Xu Wei, Kangan Wang, Xipeng Zhang. Modeling and simulation of medium voltage DC  power system for all electric ships[C]．2024 2nd International Conference on Power Science and Technology (ICPST 2024), May. 2024. (Poster，EI收录)
+[2]**Yayu Yang**,Binjie Jin，Yu Liu，Xu Wei, Kangan Wang, Xipeng Zhang. Modeling and simulation of medium voltage DC  power system for all electric ships[C]．2024 IEEE 2nd International Conference on Power Science and Technology (ICPST 2024), May. 2024. (Poster，EI收录)
 
 [3]**Yayu Yang**, Xin Jiang, Moduo Yu，Shu Ye, Caixia Cai. A review of key technologies of shore power systems[C]. IET International Conference on Renewable Power Generation (RPG), Oct. 2023. (**Oral**，EI收录)
 
