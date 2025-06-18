@@ -135,7 +135,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Smart Grid、IEEE Tra
 
 [2]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Lian Yang, Shi Chen. Resonance frequency‐based protection scheme for ultra‐high‐voltage direct‐current transmission lines[J]. IET Generation, Transmission & Distribution, 2018, 12(2): 318-327. 
 
-[3]**Yayu Yang**, Yan Wen, hengfa Zhang, Yuqing Dong, Chong Shen, Yilu Liu. Towards 100% Renewable Power Grids: A Review[J]. IEEE Access, 2025.( Early Access )
+[3]**Yayu Yang**, Yan Wen, hengfa Zhang, Yuqing Dong, Chong Shen, Yilu Liu. Toward 100% Renewable Power Grids: A Review[J]. IEEE Access, 2025.( Early Access )
 
 [4]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Liu Jian, Miao Chen. A particular AC component protection scheme for bipolar HVDC transmission lines[J]. IEEJ Transactions on Electrical and Electronic Engineering , 2018, 13(5): 732-741.
 
