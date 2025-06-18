@@ -127,7 +127,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Smart Grid、IEEE Tra
 5）上海高校青年教师培养资助计划（重点推荐），电气工程学科建模仿真领域，项目时间：2023.01-2024.12，主持。
 
 # <span id="jump7"><font color='#7093DB'>7.Publications</font></span>
-已发表学术论文32篇（第一作者和通信作者SCI/EI 17篇），已授权国家发明专利6项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，**数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载**。完成国内外顶级投资机构科技行业研究课题80个（保密不公开）。
+已发表学术论文32篇（第一作者和通信作者SCI/EI 17篇），已授权国家发明专利7项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，**数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载**。完成国内外顶级投资机构科技行业研究课题80个（保密不公开）。
 
 ## <font color='#7093DB'>7.A-Academic Publications</font>
 ### <font color='#7093DB'>7.A1-SCI论文</font>
@@ -154,7 +154,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Smart Grid、IEEE Tra
 
 丁浩-RSFCL-录用了-RSFCL-based Fault Current Limiting and Protection Method for Shipboard DC Microgrids
 
-裴志杰-tia会议
+裴志杰-tia会议-录用了-
 
 王振兴ai
 
