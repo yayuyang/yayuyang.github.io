@@ -184,6 +184,12 @@ Refining the Notional MVDC Shipboard Power System: Improved Design and Simulatio
 
 周卫祥-trans
 
+UTK-voltage thd PV-Andy
+
+UTK-CO-jian
+
+UTK-co-samuel
+
 Bohan Wu,**Yayu Yang(Corresponding author)**,Xiaoyan Xu,Kangan Wang.Advancing Shore power technology for sustainable maritime transport and emission reduction: A global review of history, policies, and standards[C].
 -->
 
