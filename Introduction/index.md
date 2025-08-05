@@ -127,7 +127,7 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Smart Grid、IEEE Tra
 5）上海高校青年教师培养资助计划（重点推荐），电气工程学科建模仿真领域，项目时间：2023.01-2024.12，主持。
 
 # <span id="jump7"><font color='#7093DB'>7.Publications</font></span>
-已发表学术论文36篇（第一作者和通信作者SCI/EI 19篇），已授权国家发明专利7项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，**数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载**。完成国内外顶级投资机构科技行业研究课题80个（保密不公开）。
+已发表学术论文37篇（第一作者和通信作者SCI/EI 20篇），已授权国家发明专利7项。已发表科技行业分析报告154篇，其中科技产业趋势和投资分析深度报告44篇，**数十篇科技产业研究报告被新浪网、搜狐网、凤凰网、澎湃新闻、网易、亿欧网、东方财富网、虎嗅网、36Kr、创业邦等转载**。完成国内外顶级投资机构科技行业研究课题80个（保密不公开）。
 
 ## <font color='#7093DB'>7.A-Academic Publications</font>
 ### <font color='#7093DB'>7.A1-SCI论文</font>
@@ -135,24 +135,24 @@ IEEE Transactions on Power Delivery、IEEE Transactions on Smart Grid、IEEE Tra
 
 [2]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Lian Yang, Shi Chen. Resonance frequency‐based protection scheme for ultra‐high‐voltage direct‐current transmission lines[J]. IET Generation, Transmission & Distribution, 2018, 12(2): 318-327. 
 
-[3]**Yayu Yang**, Yan Wen, hengfa Zhang, Yuqing Dong, Chong Shen, Yilu Liu. Toward 100% Renewable Power Grids: A Review[J]. IEEE Access, 2025.( Early Access )
+[3]**Yayu Yang**, Yan Wen, hengfa Zhang, Yuqing Dong, Chong Shen, Yilu Liu. Toward 100% Renewable Power Grids: A Review[J]. IEEE Access, 2025,13: 69690-69704
 
-[4]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Liu Jian, Miao Chen. A particular AC component protection scheme for bipolar HVDC transmission lines[J]. IEEJ Transactions on Electrical and Electronic Engineering , 2018, 13(5): 732-741.
+[4]**Yayu Yang**, Zhenxing Wang, Ning Gao, Kangan Wang, Binjie Jin, Hao Chen, and Bo Li.Faulted-Pole Discrimination in Shipboard DC Microgrids Using S-Transformation and Convolutional Neural Networks[J]. Journal of Marine Science and Engineering. 2025,13(8):1510. https://doi.org/10.3390/jmse13081510
 
-[5]Shu Ye, Feng Zhang, Fei Gao, Zhongzheng Zhou, **Yayu Yang**. Fault diagnosis for multilevel converters based on an affine-invariant riemannian metric autoencoder[J]. IEEE Transactions on Industrial Informatics, 2022, 19(3): 2619-2628.
+[5]**Yayu Yang(Corresponding author)**, Nengling Tai, Chunju Fan, Liu Jian, Miao Chen. A particular AC component protection scheme for bipolar HVDC transmission lines[J]. IEEJ Transactions on Electrical and Electronic Engineering , 2018, 13(5): 732-741.
 
-[6]Baichuan Teng, Jianjun Ma, Miao Zhu, **Yayu Yang**, Xu Cai. Fault‐tolerant DC‐DC converter interconnected with energy storage device for bipolar distribution system: Working modes and optimizing control strategy[J]. IET Generation, Transmission & Distribution,2023, 17(19): 4258-4276..
+[6]Shu Ye, Feng Zhang, Fei Gao, Zhongzheng Zhou, **Yayu Yang**. Fault diagnosis for multilevel converters based on an affine-invariant riemannian metric autoencoder[J]. IEEE Transactions on Industrial Informatics, 2022, 19(3): 2619-2628.
 
-[7]Jian Liu, Negnling Tai, Chunju Fan, **Yayu Yang**. Transient measured impedance-based protection scheme for DC line faults in ultra high-voltage direct-current system[J]. IET Generation, Transmission & Distribution, 2016, 10(14): 3597-3609.
+[7]Baichuan Teng, Jianjun Ma, Miao Zhu, **Yayu Yang**, Xu Cai. Fault‐tolerant DC‐DC converter interconnected with energy storage device for bipolar distribution system: Working modes and optimizing control strategy[J]. IET Generation, Transmission & Distribution,2023, 17(19): 4258-4276..
 
-[8]Caixia Cai, Fuli Zhong, Han Hai, Mingzhi Chen, Wenyang Gan, Bing Sun, **Yayu Yang**. Energy-efficient two-way full-duplex relay transmission strategy with SWIPT and direct links[J]. EURASIP Journal on Wireless Communications and Networking, 2024, 2024(1): 17.
+[8]Jian Liu, Negnling Tai, Chunju Fan, **Yayu Yang**. Transient measured impedance-based protection scheme for DC line faults in ultra high-voltage direct-current system[J]. IET Generation, Transmission & Distribution, 2016, 10(14): 3597-3609.
+
+[9]Caixia Cai, Fuli Zhong, Han Hai, Mingzhi Chen, Wenyang Gan, Bing Sun, **Yayu Yang**. Energy-efficient two-way full-duplex relay transmission strategy with SWIPT and direct links[J]. EURASIP Journal on Wireless Communications and Networking, 2024, 2024(1): 17.
 
 <!-- 19个等待，9个只是co
 黎博录用Collaborative planning of multiple energy storage systems in seaport integrated energy system ；Yiyi Zhang; Haifeng Gao; Bo Li; Yayu Yang; Xianfu Lin; Meng Cheng； ASCE's Journal of Energy Engineering
 
 王振兴ecce-录用了-Fault Identification Scheme for HVDC Systems Based on Single-Sided Trigger Angle Signal and CWT-CNN
-
-王振兴ai
 
 裴志杰tia期刊
 
